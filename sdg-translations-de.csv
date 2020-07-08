@@ -291,8 +291,8 @@ metadata_fields:international_comparability,Comparability with international dat
 metadata_fields:comments_limitations,Comments and limitations,Kommentare und Einschränkungen
 metadata_fields:rational_interpretation,Rational and interpretation,Vernunft und Interpretation
 metadata_fields:copyright,Copyright,Urheberrechte
-global_goals:1-short,No poverty,Keine Armut
-global_goals:1-title,End poverty in all its forms everywhere,Armut in allen ihren Formen und überall beenden
+global_goals:1-short,No poverty,Mietwohnungen
+global_goals:1-title,End poverty in all its forms everywhere,Mietwohnungen in Niedersachsen
 global_goals:10-short,Reduced inequalities,Weniger Ungleichheiten
 global_goals:10-title,Reduce inequality within and among countries,Ungleichheit in und zwischen Ländern verringern
 global_goals:11-short,Sustainable cities & communities,Nachhaltige Städte und Gemeinden
@@ -305,26 +305,26 @@ global_goals:14-short,Life below water,Leben unter Wasser
 global_goals:14-title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Ozeane, Meere und Meeresressourcen im Sinne nachhaltiger Entwicklung erhalten und nachhaltig nutzen"
 global_goals:15-short,Life on land,Leben an Land
 global_goals:15-title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Landökosysteme schützen, wiederherstellen und ihre nachhaltige Nutzung fördern, Wälder nachhaltig bewirtschaften, Wüstenbildung bekämpfen, Bodendegradation beenden und umkehren und "
-global_goals:16-short,Peace and justice - strong institutions,"Frieden, Gerechtigkeit und starke Institutionen"
-global_goals:16-title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Friedliche und inklusive Gesellschaften für eine nachhaltige Entwicklung fördern, allen Menschen Zugang zur Justiz ermöglichen und leistungsfähige, rechenschaftspflichtige und inklusive Institutionen auf allen Ebenen aufbauen"
-global_goals:17-short,Partnerships for the goals,Partnerschaften zur Erreichung der Ziele
-global_goals:17-title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Umsetzungsmittel stärken und die Globale Partnerschaft für nachhaltige Entwicklung mit neuem Leben erfüllen
-global_goals:2-short,Zero hunger,Kein Hunger
-global_goals:2-title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern"
-global_goals:3-short,Good health and well-being,Gesundheit und Wohlergehen
-global_goals:3-title,Ensure healthy lives and promote well-being for all at all ages,Ein gesundes Leben für alle Menschen jeden Alters gewährleisten und ihr Wohlergehen fördern
-global_goals:4-short,Quality education,Hochwertige Bildung
-global_goals:4-title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,"Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten und Möglichkeiten lebenslangen Lernens für alle fördern"
-global_goals:5-short,Gender equality,Geschlechtergleichstellung
-global_goals:5-title,Achieve gender equality and empower all women and girls,Geschlechtergleichstellung erreichen und alle Frauen und Mädchen zur Selbstbestimmung befähigen
-global_goals:6-short,Clean water and sanitation,Sauberes Wasser und Sanitärversorgung
-global_goals:6-title,Ensure availability and sustainable management of water and sanitation for all,Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle gewährleisten
-global_goals:7-short,Affordable and clean energy,Bezahlbare und saubere Energie
-global_goals:7-title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Zugang zu bezahlbarer, verlässlicher, nachhaltiger und moderner Energie für alle sichern"
-global_goals:8-short,Decent jobs and economic growth,Menschenwürdige Arbeit und Wirtschaftswachstum
-global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Dauerhaftes, breitenwirksames und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern"
-global_goals:9-short,"Industry, innovation and infrastructure","Industrie, Innovationen und Infrastruktur"
-global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Eine widerstandsfähige Infrastruktur aufbauen, breitenwirksame und nachhaltige Industrialisierung fördern und Innovationen unterstützen"
+global_goals:16-short,Peace and justice - strong institutions,
+global_goals:16-title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+global_goals:17-short,Partnerships for the goals,
+global_goals:17-title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,
+global_goals:2-short,Zero hunger,Eigenheime
+global_goals:2-title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture",Eigenheime in Niedersachsen und eine nachhaltige Landwirtschaft fördern
+global_goals:3-short,Good health and well-being,Wohnheime und andere Unterkünfte
+global_goals:3-title,Ensure healthy lives and promote well-being for all at all ages,
+global_goals:4-short,Quality education,Mieten
+global_goals:4-title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Mieten in Niedersachsen
+global_goals:5-short,Gender equality,Bauvorhaben
+global_goals:5-title,Achieve gender equality and empower all women and girls,Bauen in Niedersachsen
+global_goals:6-short,Clean water and sanitation,Baufertigstellungen
+global_goals:6-title,Ensure availability and sustainable management of water and sanitation for all,Baufertigstellungen in Niedersachsen
+global_goals:7-short,Affordable and clean energy,Baukosten
+global_goals:7-title,"Ensure access to affordable, reliable, sustainable and modern energy for all",Was kosten das Eigenheim?
+global_goals:8-short,Decent jobs and economic growth,Grundstücke
+global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Grunstückspreise und Preisentwicklung in Niedersachsen
+global_goals:9-short,"Industry, innovation and infrastructure",Grunderwerbssteuer
+global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",Grunderwerbsteuer in Niedersachsen
 indicator:select_all,Select all,Alle auswählen
 indicator:clear_all,Clear all,Auswahl aufheben
 indicator:clear_selections,Clear selections,Auswahl aufheben
