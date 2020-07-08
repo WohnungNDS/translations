@@ -208,8 +208,8 @@ menu:faq,FAQ,FAQ
 menu:contact_us,Contact us,Kontakt
 menu:cookies,Cookies,Cookies
 menu:updates,Updates,
-metadata_fields:other_info,Other information,Weitere Informationen
-metadata_fields:computation_calculations,Calculations,Methodik
+metadata_fields:other_info,Other information,Analyse
+metadata_fields:computation_calculations,Calculations,Methodische Hinweise
 metadata_fields:computation_definitions,Definitions,Definitionen
 metadata_fields:computation_units,Unit of measurement,Einheit
 metadata_fields:goal_meta_link,Link to UN metadata,Link zu den globalen Metadaten
@@ -220,7 +220,7 @@ metadata_fields:indicator_sort_order,Indicator display order (within Goal page),
 metadata_fields:national_data_update_url,Data last updated,Daten zuletzt aktualisiert am
 metadata_fields:national_geographical_coverage,Geographical coverage,Geographische Abdeckung
 metadata_fields:national_indicator_available,Indicator available,Verfügbare Datenreihenbezeichnung
-metadata_fields:national_indicator_description,Indicator description,Indikatorenbeschreibung
+metadata_fields:national_indicator_description,Indicator description,Definition des Indikators
 metadata_fields:national_metadata_update_url,Metadata last updated,Metadaten zuletzt aktualisiert am
 metadata_fields:source_contact_1,Contact details,Kontaktinformationen
 metadata_fields:source_contact_2,Contact details,Kontaktinformationen
