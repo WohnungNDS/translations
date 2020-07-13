@@ -8,8 +8,8 @@ general:home,Home,Home
 general:loading,Loading search results,Ergebnisse werden geladen
 general:opens_new_window,opens in a new window,in neuem Fenster öffnen
 general:hide,hide,ausblenden
-general:target,Target,Unterziel
-general:targets,Targets,Unterziele
+general:target,Target,Indikator Beschreibung
+general:targets,Targets,Indikator Beschreibung
 general:twitter,Twitter,Twitter
 general:facebook,Facebook,Facebook
 general:built_using_open_sdg,Built using Open SDG,Erstellt mit Open SDG
