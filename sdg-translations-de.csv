@@ -351,8 +351,8 @@ indicator:units_type,Units type,Einheit
 indicator:series,Series,Reihe
 indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen. Es können nicht alle Zeitreihen dargestellt werden
 indicator:view_indicator_list,View this goal's indicator list,Zeigt die Indikatorenliste zum SDG-Ziel an.
-indicator:sub_categories,Sub-categories,Disaggregationsdimensionen
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt wird."
+indicator:sub_categories,Sub-categories,Kategorien
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Wählen Sie eine oder mehrere Kategorien aus, um die Tabelle/Grafik anzupassen."
 indicator:legend_help,Click on the legend to remove individual lines from the chart.,Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
 indicator:chart,Chart,Grafik
 indicator:table,Table,Tabelle
