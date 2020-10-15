@@ -7,8 +7,35 @@ header:high_contrast,High contrast,Hoher kontrast
 header:default_contrast,Default contrast,Standard kontrast
 header:enable_high_contrast,Enable high contrast,Aktivieren Sie hohen Kontrast
 header:disable_high_contrast,Disable high contrast,Hoher Kontrast deaktivieren
-post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
-post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an
+menu:menu,Menu,Menü
+menu:reporting_status,Reporting Status,Berichtsstatus
+menu:about,About,Über uns
+menu:publications,Publications,Veröffentlichungen
+menu:guidance,Guidance,Technische Hinweise
+menu:faq,FAQ,FAQ
+menu:contact_us,Contact us,Kontakt
+menu:cookies,Cookies,Cookies
+menu:updates,Updates,
+status:reporting_status,Reporting Status,Berichtsstatus
+status:overall_reporting_status,Overall Reporting Status,Übersicht zum Berichtsstatus
+status:reported_online,Reported online,Daten verfügbar
+status:statistics_in_progress,Statistics in progress,in Bearbeitung
+status:exploring_data_sources,Exploring data sources,Datenquellenanalyse
+status:not_applicable,Not applicable,Nicht zutreffend
+status:status_by_goal,Status by goal,Status nach Ziel
+status:status_by_field,Status by %field,Status von %field
+calendar:January,January,Januar
+calendar:February,February,Februar
+calendar:March,March,März
+calendar:April,April,April
+calendar:May,May,Kann
+calendar:June,June,Juni
+calendar:July,July,Juli
+calendar:August,August,August
+calendar:September,September,September
+calendar:October,October,Oktober
+calendar:November,November,November
+calendar:December,December,Dezember
 metadata_fields:other_info,Other information,Analyse
 metadata_fields:computation_calculations,Calculations,Methodische Hinweise
 metadata_fields:computation_definitions,Definitions,Definitionen
@@ -92,21 +119,8 @@ metadata_fields:international_comparability,Comparability with international dat
 metadata_fields:comments_limitations,Comments and limitations,Kommentare und Einschränkungen
 metadata_fields:rational_interpretation,Rational and interpretation,Vernunft und Interpretation
 metadata_fields:copyright,Copyright,Urheberrechte
-status:reporting_status,Reporting Status,Berichtsstatus
-status:overall_reporting_status,Overall Reporting Status,Übersicht zum Berichtsstatus
-status:reported_online,Reported online,Daten verfügbar
-status:statistics_in_progress,Statistics in progress,in Bearbeitung
-status:exploring_data_sources,Exploring data sources,Datenquellenanalyse
-status:not_applicable,Not applicable,Nicht zutreffend
-status:status_by_goal,Status by goal,Status nach Ziel
-status:status_by_field,Status by %field,Status von %field
-search:search,Search,Suche
-search:indicator_search,Indicator search,Indikatorensuche
-search:search_results_for,Search results for,Ergebnisse zu
-search:found_in,found in,gefunden unter
-search:keywords,Keywords,Schlagworte
-search:no_results,No results,Keine Ergebnisse
-search:did_you_mean,did you mean,meintest du
+post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
+post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an
 general:indicator,Indicator,Indikator
 general:indicators,Indicators,Indikatoren
 general:goal,Goal,Themenbereich
@@ -123,6 +137,19 @@ general:facebook,Facebook,Facebook
 general:built_using_open_sdg,Built using Open SDG,Erstellt mit Open SDG
 general:page,Page,Website
 general:pages,Pages,Webseiten
+search:search,Search,Suche
+search:indicator_search,Indicator search,Indikatorensuche
+search:search_results_for,Search results for,Ergebnisse zu
+search:found_in,found in,gefunden unter
+search:keywords,Keywords,Schlagworte
+search:no_results,No results,Keine Ergebnisse
+search:did_you_mean,did you mean,meintest du
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.",Klicken Sie auf die einzelnen Themen um zu den Daten den Indikatoren des Wohnungskompass zu kommen. Oder %before_link suchen %after_link Sie gezielt nach spezifischenThemen.
+frontpage:heading,%name data for Sustainable Development Goal indicators,
+frontpage:download_all,Download all data,Laden Sie alle Daten herunter
+frontpage:zip_file,ZIP file,zip-Datei
+frontpage:intro_title,17 goals to transform our world,Hauptsache ein Dach über dem Kopf - Wohnen in Niedersachsen 2020
+frontpage:intro_body,"The <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda for Sustainable Development</a>.","Wie viele Wohnungen gibt es in Niedersachsen? Wie hoch ist die Eigenheimquote in meinem Kreis? Wie hoch ist die durchschnittliche Miete? Wo wohnen Menschen mit Migrationshintergrund und wie sind eigentlich die Grundstückpreise in Niedersachsen, den Landkreisen und den Kreisfreien Städten? Antworten auf diese und viele weitere Fragen rund um das Theme Mieten, Wohnen und Eigenheim finden Sie in dem Wohnungskompass Niedersachsen"
 global_goals:1-short,No poverty,Gebäude
 global_goals:1-title,End poverty in all its forms everywhere,Gebäude in Niedersachsen
 global_goals:10-short,Reduced inequalities,Mitwohnungen
@@ -157,21 +184,6 @@ global_goals:8-short,Decent jobs and economic growth,Grundstücke
 global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Grunstückspreise und Preisentwicklung in Niedersachsen
 global_goals:9-short,"Industry, innovation and infrastructure",Grunderwerbssteuer
 global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",Grunderwerbsteuer in Niedersachsen
-menu:menu,Menu,Menü
-menu:reporting_status,Reporting Status,Berichtsstatus
-menu:about,About,Über uns
-menu:publications,Publications,Veröffentlichungen
-menu:guidance,Guidance,Technische Hinweise
-menu:faq,FAQ,FAQ
-menu:contact_us,Contact us,Kontakt
-menu:cookies,Cookies,Cookies
-menu:updates,Updates,
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.",Klicken Sie auf die einzelnen Themen um zu den Daten den Indikatoren des Wohnungskompass zu kommen. Oder %before_link suchen %after_link Sie gezielt nach spezifischenThemen.
-frontpage:heading,%name data for Sustainable Development Goal indicators,"Antworten auf diese und viele weitere Fragen rund um das Theme Mieten, Wohnen und Eigenheim finden Sie in dem Wohnungskompass Niedersachsen"
-frontpage:download_all,Download all data,Laden Sie alle Daten herunter
-frontpage:zip_file,ZIP file,zip-Datei
-frontpage:intro_title,17 goals to transform our world,Hauptsache ein Dach über dem Kopf - Wohnen in Niedersachsen 2020
-frontpage:intro_body,"The <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda for Sustainable Development</a>.","Wie viele Wohnungen gibt es in Niedersachsen? Wie hoch ist die Eigenheimquote in meinem Kreis? Wie hoch ist die durchschnittliche Miete? Wo wohnen Menschen mit Migrationshintergrund und wie sind eigentlich die Grundstückpreise in Niedersachsen, den Landkreisen und den Kreisfreien Städten?"
 global_targets:1-1-title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day",Der Wohnungskompass Niedersachsen beginnt mit einer Bestandsaufnahme der verfügbaren Wohnungen in Wohn- und Nichtwohngebäuden inkl. Wohnheimen. Für jeden Landkreis und für jede kreisfreie Stadt kann tabellarsich und grafisch die Entwicklung der Anzahl der Wohnungen abgebildet werden. Darüberhinaus ist die Anzahl der Zimmer und die Wohnfläche in Indikator 1.2.1 sowie die Nutzfläche der Wohngebäude (Indikator 1.2.2) verfügbar.
 global_targets:1-2-title,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Eigenheime in Niedersachsen
 global_targets:1-3-title,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable","Den nationalen Gegebenheiten entsprechende Sozialschutzsysteme und -maßnahmen für alle umsetzen, einschließlich eines Basisschutzes, und bis 2030 eine breite Versorgung der Armen und Schwachen erreichen"
@@ -626,15 +638,3 @@ global_indicators:9-5-2-title,Researchers (in full-time equivalent) per million 
 global_indicators:9-a-1-title,Total official international support (official development assistance plus other official flows) to infrastructure,Gesamte öffentliche internationale Unterstützung (öffentliche Entwicklungszusammenarbeit und andere öffentliche Mittel) für Infrastruktu
 global_indicators:9-b-1-title,Proportion of medium and high-tech industry value added in total value added,Anteil der Wertschöpfung der Medium- und High-Tech-Industrie an der Wertschöpfung insgesamt
 global_indicators:9-c-1-title,"Proportion of population covered by a mobile network, by technology","Anteil der Bevölkerung, die durch ein Mobilfunknetz abgedeckt ist, nach Technologie"
-calendar:January,January,Januar
-calendar:February,February,Februar
-calendar:March,March,März
-calendar:April,April,April
-calendar:May,May,Kann
-calendar:June,June,Juni
-calendar:July,July,Juli
-calendar:August,August,August
-calendar:September,September,September
-calendar:October,October,Oktober
-calendar:November,November,November
-calendar:December,December,Dezember

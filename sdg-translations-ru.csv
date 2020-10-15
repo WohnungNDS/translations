@@ -7,8 +7,35 @@ header:high_contrast,High contrast,высокий контраст
 header:default_contrast,Default contrast,стандартный контраст
 header:enable_high_contrast,Enable high contrast,Включить высокую контрастность
 header:disable_high_contrast,Disable high contrast,Отключить высокую контрастность
-post:posts_by_category,Posts by Category,Посты по категории
-post:view_all_in_category,View all posts in the %category_name category,Просмотреть все посты в категории
+menu:menu,Menu,Меню
+menu:reporting_status,Reporting Status,Состояние отчётности
+menu:about,About,О нас
+menu:publications,Publications,Публикации
+menu:guidance,Guidance,Руководство
+menu:faq,FAQ,Часто задаваемые вопросы
+menu:contact_us,Contact us,Свяжитесь с нами
+menu:cookies,Cookies,Cookies
+menu:updates,Updates,
+status:reporting_status,Reporting Status,Статус отчётности
+status:overall_reporting_status,Overall Reporting Status,Общее состояние отчётности
+status:reported_online,Reported online,Опубликован
+status:statistics_in_progress,Statistics in progress,Статистика в процессе выполнения
+status:exploring_data_sources,Exploring data sources,В процессе разработки
+status:not_applicable,Not applicable,Непригодный
+status:status_by_goal,Status by goal,Статус по цели
+status:status_by_field,Status by %field,Статус по %field
+calendar:January,January,январь
+calendar:February,February,февраль
+calendar:March,March,марш
+calendar:April,April,апрель
+calendar:May,May,май
+calendar:June,June,июнь
+calendar:July,July,июль
+calendar:August,August,августейший
+calendar:September,September,сентябрь
+calendar:October,October,октября
+calendar:November,November,ноябрь
+calendar:December,December,Декабрь
 metadata_fields:other_info,Other information,Другая информация
 metadata_fields:computation_calculations,Calculations,Расчёты
 metadata_fields:computation_definitions,Definitions,Определения
@@ -92,21 +119,8 @@ metadata_fields:international_comparability,Comparability with international dat
 metadata_fields:comments_limitations,Comments and limitations,Комментарии и ограничения
 metadata_fields:rational_interpretation,Rational and interpretation,Рациональное и интерпретация
 metadata_fields:copyright,Copyright,Авторские права
-status:reporting_status,Reporting Status,Статус отчётности
-status:overall_reporting_status,Overall Reporting Status,Общее состояние отчётности
-status:reported_online,Reported online,Опубликован
-status:statistics_in_progress,Statistics in progress,Статистика в процессе выполнения
-status:exploring_data_sources,Exploring data sources,В процессе разработки
-status:not_applicable,Not applicable,Непригодный
-status:status_by_goal,Status by goal,Статус по цели
-status:status_by_field,Status by %field,Статус по %field
-search:search,Search,Поиск
-search:indicator_search,Indicator search,Поиск показателя
-search:search_results_for,Search results for,Результаты поиска по вашему запросу
-search:found_in,found in,найдено в
-search:keywords,Keywords,Ключевые слова
-search:no_results,No results,Результатов не найдено
-search:did_you_mean,did you mean,вы имеете в виду
+post:posts_by_category,Posts by Category,Посты по категории
+post:view_all_in_category,View all posts in the %category_name category,Просмотреть все посты в категории
 general:indicator,Indicator,Показатель
 general:indicators,Indicators,Показатели
 general:goal,Goal,Цель
@@ -123,6 +137,19 @@ general:facebook,Facebook,Facebook
 general:built_using_open_sdg,Built using Open SDG,Построен с использованием Open SDG
 general:page,Page,веб-страница
 general:pages,Pages,веб-страница
+search:search,Search,Поиск
+search:indicator_search,Indicator search,Поиск показателя
+search:search_results_for,Search results for,Результаты поиска по вашему запросу
+search:found_in,found in,найдено в
+search:keywords,Keywords,Ключевые слова
+search:no_results,No results,Результатов не найдено
+search:did_you_mean,did you mean,вы имеете в виду
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Нажмите на каждую цель, или %before_link поищите %after_link статистики для глобальных показателей целей в области устойчивого развития."
+frontpage:heading,%name data for Sustainable Development Goal indicators,%name данные для целей в области устойчивого развития
+frontpage:download_all,Download all data,Скачать все данные
+frontpage:zip_file,ZIP file,ZIP файл
+frontpage:intro_title,17 goals to transform our world,17 целей преобразить наш мир
+frontpage:intro_body,"The <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda for Sustainable Development</a>.","<a href=""https://www.un.org/sustainabledevelopment/ru/"">Цели в области устойчивого развития (ЦУР)</a> представляют собой универсальный призыв к действиям, направленным на то, чтобы покончить с нищетой, защитить планету и улучшить жизнь и перспективы каждого человека, где бы он ни находился. Эти 17 целей были приняты всеми государствами-членами ООН в 2015 году в рамках <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=R"">2030 Повестки дня в области устойчивого развития</a>."
 global_goals:1-short,No poverty,Ликвидация нищеты
 global_goals:1-title,End poverty in all its forms everywhere,Повсеместная ликвидация нищеты во всех ее формах
 global_goals:10-short,Reduced inequalities,Уменьшение неравенства
@@ -177,21 +204,6 @@ global_goals:8-title,"Promote sustained, inclusive and sustainable economic grow
 global_goals:9-short,"Industry, innovation and infrastructure","Индустриализация, инновации и инфраструктура"
 global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Создание стойкой инфраструктуры, содействие всеохватной и устойчивой
 индустриализации и инновациям"
-menu:menu,Menu,Меню
-menu:reporting_status,Reporting Status,Состояние отчётности
-menu:about,About,О нас
-menu:publications,Publications,Публикации
-menu:guidance,Guidance,Руководство
-menu:faq,FAQ,Часто задаваемые вопросы
-menu:contact_us,Contact us,Свяжитесь с нами
-menu:cookies,Cookies,Cookies
-menu:updates,Updates,
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Нажмите на каждую цель, или %before_link поищите %after_link статистики для глобальных показателей целей в области устойчивого развития."
-frontpage:heading,%name data for Sustainable Development Goal indicators,%name данные для целей в области устойчивого развития
-frontpage:download_all,Download all data,Скачать все данные
-frontpage:zip_file,ZIP file,ZIP файл
-frontpage:intro_title,17 goals to transform our world,17 целей преобразить наш мир
-frontpage:intro_body,"The <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda for Sustainable Development</a>.","<a href=""https://www.un.org/sustainabledevelopment/ru/"">Цели в области устойчивого развития (ЦУР)</a> представляют собой универсальный призыв к действиям, направленным на то, чтобы покончить с нищетой, защитить планету и улучшить жизнь и перспективы каждого человека, где бы он ни находился. Эти 17 целей были приняты всеми государствами-членами ООН в 2015 году в рамках <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=R"">2030 Повестки дня в области устойчивого развития</a>."
 global_targets:1-1-title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day","К 2030 году ликвидировать крайнюю нищету
 для всех людей во всем мире (в настоящее время
 крайняя нищета определяется как проживание на
@@ -2058,15 +2070,3 @@ global_indicators:9-b-1-title,Proportion of medium and high-tech industry value 
 в общем объеме добавленной стоимости"
 global_indicators:9-c-1-title,"Proportion of population covered by a mobile network, by technology","Доля населения, охваченного мобильными
 сетями, в разбивке по технологиям"
-calendar:January,January,январь
-calendar:February,February,февраль
-calendar:March,March,марш
-calendar:April,April,апрель
-calendar:May,May,май
-calendar:June,June,июнь
-calendar:July,July,июль
-calendar:August,August,августейший
-calendar:September,September,сентябрь
-calendar:October,October,октября
-calendar:November,November,ноябрь
-calendar:December,December,Декабрь

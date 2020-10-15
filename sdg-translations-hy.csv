@@ -7,8 +7,35 @@ header:high_contrast,High contrast,բարձր հակադրություն
 header:default_contrast,Default contrast,լռելյայն հակադրություն
 header:enable_high_contrast,Enable high contrast,Միացնել բարձր հակադրություն
 header:disable_high_contrast,Disable high contrast,Անջատեք բարձր հակադրություն
-post:posts_by_category,Posts by Category,Գրառումներ ըստ կատեգորիաների  
-post:view_all_in_category,View all posts in the %category_name category,Տեսնել բոլոր գրառումները %category_name category
+menu:menu,Menu,Ցանկ
+menu:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
+menu:about,About,Վերաբերյալ
+menu:publications,Publications,Հրապարակումներ
+menu:guidance,Guidance,Ուղեցույց
+menu:faq,FAQ,ՀՏՀ
+menu:contact_us,Contact us,Կապ մեզ հետ
+menu:cookies,Cookies,Քուկիներ 
+menu:updates,Updates,
+status:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
+status:overall_reporting_status,Overall Reporting Status,Ընդհանուր հաշվետվության կարգավիճակը
+status:reported_online,Reported online,Առցանց հաշվետվություն 
+status:statistics_in_progress,Statistics in progress,Վիճակագրությունը ընթացքում է
+status:exploring_data_sources,Exploring data sources,Ուսումնասիրել տվյալների աղբյուրները 
+status:not_applicable,Not applicable,ոչ կիրառելի
+status:status_by_goal,Status by goal,Գոլի կարգավիճակ
+status:status_by_field,Status by %field,Կարգավիճակը %field
+calendar:January,January,Հունվար
+calendar:February,February,Փետրվար
+calendar:March,March,Մարտ
+calendar:April,April,Ապրիլ
+calendar:May,May,Մայիս
+calendar:June,June,Հունիս
+calendar:July,July,Հուլիս
+calendar:August,August,Օգոստոս
+calendar:September,September,Սեպտեմբեր
+calendar:October,October,Հոկտեմբեր
+calendar:November,November,Նոյեմբեր
+calendar:December,December,Դեկտեմբեր
 metadata_fields:other_info,Other information,Այլ տեղեկություններ 
 metadata_fields:computation_calculations,Calculations,Հաշվարկներ 
 metadata_fields:computation_definitions,Definitions,Սահմանումներ 
@@ -92,21 +119,8 @@ metadata_fields:international_comparability,Comparability with international dat
 metadata_fields:comments_limitations,Comments and limitations,Մեկնաբանություններ և սահմանափակումներ
 metadata_fields:rational_interpretation,Rational and interpretation,Ռացիոնալ և մեկնաբանություն
 metadata_fields:copyright,Copyright,Հեղինակային իրավունք
-status:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
-status:overall_reporting_status,Overall Reporting Status,Ընդհանուր հաշվետվության կարգավիճակը
-status:reported_online,Reported online,Առցանց հաշվետվություն 
-status:statistics_in_progress,Statistics in progress,Վիճակագրությունը ընթացքում է
-status:exploring_data_sources,Exploring data sources,Ուսումնասիրել տվյալների աղբյուրները 
-status:not_applicable,Not applicable,ոչ կիրառելի
-status:status_by_goal,Status by goal,Գոլի կարգավիճակ
-status:status_by_field,Status by %field,Կարգավիճակը %field
-search:search,Search,Որոնում
-search:indicator_search,Indicator search,Ցուցանիշների որոնում
-search:search_results_for,Search results for,Որոնման արդյունքներ
-search:found_in,found in,Գտնված է
-search:keywords,Keywords,Հիմնաբառեր
-search:no_results,No results,Արդյունքներ չկան
-search:did_you_mean,did you mean,դու ի նկատի ունեիր
+post:posts_by_category,Posts by Category,Գրառումներ ըստ կատեգորիաների  
+post:view_all_in_category,View all posts in the %category_name category,Տեսնել բոլոր գրառումները %category_name category
 general:indicator,Indicator,Ցուցանիշ
 general:indicators,Indicators,Ցուցանիշներ
 general:goal,Goal,Նպատակը
@@ -123,6 +137,19 @@ general:facebook,Facebook,Ֆեյսբուք
 general:built_using_open_sdg,Built using Open SDG,Կառուցվել է Open SDG օգտագործմամբ
 general:page,Page,ինտերնետային էջ
 general:pages,Pages,վեբ էջեր
+search:search,Search,Որոնում
+search:indicator_search,Indicator search,Ցուցանիշների որոնում
+search:search_results_for,Search results for,Որոնման արդյունքներ
+search:found_in,found in,Գտնված է
+search:keywords,Keywords,Հիմնաբառեր
+search:no_results,No results,Արդյունքներ չկան
+search:did_you_mean,did you mean,դու ի նկատի ունեիր
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Սեղմեք յուրաքանչյուր նպատակի վրա %before_link որոնում, %after_link երկիր_անվանում Կայուն Զարգացման Նպատակների գլոբալ ցուցանիշների համար "
+frontpage:heading,%name data for Sustainable Development Goal indicators,%name Կայուն զարգացման նպատակների ցուցանիշների տվյալներ
+frontpage:download_all,Download all data,Ներբեռնեք բոլոր տվյալները
+frontpage:zip_file,ZIP file,ZIP ֆայլ
+frontpage:intro_title,17 goals to transform our world,17 նպատակ ՝ մեր աշխարհը վերափոխելու համար
+frontpage:intro_body,"The <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda for Sustainable Development</a>.","<a href=""https://www.un.org/sustainabledevelopment/ru/"">Կայուն զարգացման նպատակները (SDG)</a> - ը համընդհանուր կոչ է ՝ ուղղված աղքատությանը վերջ տալու, մոլորակին պաշտպանելու և բարելավել բոլորի կյանքը և հեռանկարները, ամենուր: 17 նպատակներն ընդունվել են ՄԱԿ-ի բոլոր անդամ պետությունների կողմից 2015 թ.-ին, որպես <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=R"">2030 օրակարգ կայուն զարգացման համար</a>:"
 global_goals:1-short,No poverty,Ոչ աղքատությանը
 global_goals:1-title,End poverty in all its forms everywhere,Ամենուրեք վերացնել աղքատությունը՝ իր բոլոր ձևերով ու դրսևորումներով
 global_goals:10-short,Reduced inequalities,Կրճատված անհավասարություն
@@ -160,21 +187,6 @@ global_goals:8-short,Decent jobs and economic growth,Արժանապատիվ աշ
 global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Խթանել կայացած, ներառական և կայուն տնտեսական աճ, լիարժեք և արտադրողական զբաղվածություն և արժանապատիվ աշխատանք բոլորի համար"
 global_goals:9-short,"Industry, innovation and infrastructure","Արդյունաբերություն, նորարարություն և ենթակառուցվածքներ"
 global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Ստեղծել դիմակայուն ենթակառուցվածքներ, աջակցել ներառական և կայուն արդյունաբերության զարգացմանը և խթանել նորարարությունը"
-menu:menu,Menu,Ցանկ
-menu:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
-menu:about,About,Վերաբերյալ
-menu:publications,Publications,Հրապարակումներ
-menu:guidance,Guidance,Ուղեցույց
-menu:faq,FAQ,ՀՏՀ
-menu:contact_us,Contact us,Կապ մեզ հետ
-menu:cookies,Cookies,Քուկիներ 
-menu:updates,Updates,
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Սեղմեք յուրաքանչյուր նպատակի վրա %before_link որոնում, %after_link երկիր_անվանում Կայուն Զարգացման Նպատակների գլոբալ ցուցանիշների համար "
-frontpage:heading,%name data for Sustainable Development Goal indicators,%name Կայուն զարգացման նպատակների ցուցանիշների տվյալներ
-frontpage:download_all,Download all data,Ներբեռնեք բոլոր տվյալները
-frontpage:zip_file,ZIP file,ZIP ֆայլ
-frontpage:intro_title,17 goals to transform our world,17 նպատակ ՝ մեր աշխարհը վերափոխելու համար
-frontpage:intro_body,"The <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda for Sustainable Development</a>.","<a href=""https://www.un.org/sustainabledevelopment/ru/"">Կայուն զարգացման նպատակները (SDG)</a> - ը համընդհանուր կոչ է ՝ ուղղված աղքատությանը վերջ տալու, մոլորակին պաշտպանելու և բարելավել բոլորի կյանքը և հեռանկարները, ամենուր: 17 նպատակներն ընդունվել են ՄԱԿ-ի բոլոր անդամ պետությունների կողմից 2015 թ.-ին, որպես <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=R"">2030 օրակարգ կայուն զարգացման համար</a>:"
 global_targets:1-1-title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day","Մինչև 2030թ. ամենուրեք և բոլոր մարդկանց համար իսպառ վերացնել ծայրահեղ աղքատությունը, որը ներկայումս չափվում է որպես օրական 1,25 դոլարից պակաս սպառում"
 global_targets:1-2-title,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Մինչև 2030թ. առնվազն կիսով չափ կրճատել ըստ ազգային սահմանումների աղքատության բոլոր ձևերի մեջ ապրող բոլոր տարիքների տղամարդկանց, կանանց և երեխաների համամասնությունը"
 global_targets:1-3-title,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable","Ներդնել տվյալ երկրում համապատասխան սոցիալական պաշտպանության համակարգեր և միջոցառումներ բոլորի համար, այդ թվում՝ սոցիալական պաշտպանության երաշխիքների խմբեր, և մինչև 2030թ. հասնել աղքատների և խոցելիների էական չափերով ընդգրկմանը"
@@ -642,15 +654,3 @@ global_indicators:9-5-2-title,Researchers (in full-time equivalent) per million 
 global_indicators:9-a-1-title,Total official international support (official development assistance plus other official flows) to infrastructure,Ընդհանուր միջազգային պաշտոնական օժանդակություն (զարգացմանն ուղղված պաշտոնական օգնություն՝ գումարած այլ պաշտոնական հոսքեր) ենթակառուցվածքներին 
 global_indicators:9-b-1-title,Proportion of medium and high-tech industry value added in total value added,Միջին և բարձր տեխնոլոգիաների ճյուղի ավելացված արժեքի համամասնությունը ընդհանուր ավելացված արժեքի մեջ 
 global_indicators:9-c-1-title,"Proportion of population covered by a mobile network, by technology",Բջջային ցանցի ծածկույթ ունեցող բնակչության համամասնությունը ըստ տեխնոլոգիայի 
-calendar:January,January,Հունվար
-calendar:February,February,Փետրվար
-calendar:March,March,Մարտ
-calendar:April,April,Ապրիլ
-calendar:May,May,Մայիս
-calendar:June,June,Հունիս
-calendar:July,July,Հուլիս
-calendar:August,August,Օգոստոս
-calendar:September,September,Սեպտեմբեր
-calendar:October,October,Հոկտեմբեր
-calendar:November,November,Նոյեմբեր
-calendar:December,December,Դեկտեմբեր
