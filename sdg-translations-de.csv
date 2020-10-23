@@ -278,7 +278,7 @@ status:status_by_goal,Status by goal,Status nach Ziel
 status:status_by_field,Status by %field,Status von %field
 header:skip_link,Skip to main content, Zum Hauptinhalt springen
 header:alpha,Alpha,Alpha-Version
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Diese Seite befindet sich im Entwicklungsstadium.Wir freuen uns über Ihre Kommentare.
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Diese Seite befindet sich im Entwicklungsstadium. Wir freuen uns über Ihre Kommentare.
 header:tag_line,17 Goals to Transform our World,
 header:high_contrast,High contrast,Hoher kontrast
 header:default_contrast,Default contrast,Standard kontrast
