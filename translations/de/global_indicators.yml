@@ -3,208 +3,31 @@
 1-1-3-title: Neubauanteil in Prozent
 1-2-1-title: Wohnungen nach Anzahl der Zimmer
 1-2-2-title: Durchschnittliche Fläche je Wohnung
-10-1-1-title: Mietwohnungen 1
-10-2-1-title: Mietwohnungen 2
-10-3-1-title: Miwtwohnungen 3
+10-1-1-title: Mietwohnungen 1 Größe der Wohnungen
+10-2-1-title: Mietwohnungen 2 Anzahl der Zimmer
+10-3-1-title: Miwtwohnungen 3 Größe der Wohnung und Anzahl der Zimmer nach Familien, Singles, Migrationshintergrund
 11-1-1-title: Tabelle des Monats
-13-1-1-title: Anzahl der infolge von Katastrophen getöteten, vermissten und direkt
-  betroffenen Personen, je 100.000 Einwohner
-13-1-2-title: Anzahl der Staaten, die nationale Strategien zur Reduzierung des Katastrophenrisikos
-  in Einklang mit dem Sendai-Rahmenwerk zur Katastrophenvorsorge 2015-2030 verabschiedet
-  und umgesetzt haben
-13-1-3-title: Anteil der lokalen Regierungen, die lokale Strategien zur Reduzierung
-  des Katastrophenrisikos in Einklang mit den nationalen Strategien zur Katastrophenvorsorge
-  verabschiedet und umgesetzt haben
-13-2-1-title: Anzahl der Staaten, die die Ausarbeitung oder Umsetzung einer/s integrierten
-  Politik/Strategie/Plans verkündet haben, welche/r ihre Fähigkeit zur Anpassung an
-  die negativen Auswirkungen des Klimawandels erhöht und die Widerstandsfähigkeit
-  gegenüber Klimaänderungen als auch eine rückläufige Entwicklung der Treibhausgasemissionen
-  fördert ohne die Nahrungsmittelproduktion zu gefährden (einschließlich eines nationalen
-  Anpassungsplans, national festgelegten Beitrags, nationaler Kommunikation, zweijährlichen
-  Aktualisierungsberichts oder anderer)
-13-3-1-title: Anzahl der Staaten, die die Minderung, Anpassung, Reduzierung der Auswirkungen
-  und Frühwarnsysteme in den primären, sekundären und tertiären Lehrplänen integriert
-  haben
-13-3-2-title: Anzahl der Staaten, die die Stärkung des institutionellen, systemischen
-  und individuellen Kapazitätsaufbaus zur Umsetzung von Anpassung, Minderung und Technologietransfer
-  und Entwicklungsmaßnahmen verkündet haben
-13-a-1-title: Mobilisierter Betrag an US-Dollar pro Jahr zwischen 2020 und 2025, anrechenbar
-  auf die Zusage von 100 Milliarden US-Dollar
-13-b-1-title: Anzahl der am wenigsten entwickelten Länder und kleinen Inselentwicklungsstaaten,
-  die besondere Unterstützung erhalten und der Betrag der Unterstützung (Finanzmittel,
-  Technologie und capacity-building umfassend) für Mechanismen zum Aufbau von Kapazitäten
-  für eine wirksame klimawandelbezogene Planung und Verwaltung, mit Fokus auf Frauen,
-  Jugendliche und lokale und marginalisierte Gemeinschaften
-14-1-1-title: Index der Eutrophierung der Küsten und Konzentration des schwimmenden
-  Plastikmülls
-14-2-1-title: Anteil der nationalen ausschließlichen Wirtschaftszonen, die mit ökosystembasierten
-  Ansätzen verwaltet werden
-14-3-1-title: Durchschnittliche Versauerung der Meere (pH) gemessen an einer vereinbarten
-  Reihe von repräsentativen Probeentnahmestationen
-14-4-1-title: Anteil der Fischbestände innerhalb des biologisch nachhaltigen Niveaus
-14-5-1-title: Abdeckung durch Schutzgebiete im Vergleich zu Meeresgebieten
-14-6-1-title: Fortschritt der Staaten hinsichtlich des Grades der Umsetzung internationaler
-  Instrumente mit dem Ziel zur Bekämpfung illegaler, nicht gemeldeter und unregulierter
-  Fischerei
-14-7-1-title: Nachhaltige Fischerei als Anteil am BIP in kleinen Inselentwicklungsstaaten,
-  in den am wenigsten entwickelten Ländern und allen Ländern
-14-a-1-title: Anteil am gesamten Forschungsbudget für Forschung im Bereich der Meerestechnik
-14-b-1-title: Fortschritt der Staaten hinsichtlich der Umsetzung von gesetzlichen/
-  regulatorischen/ politischen/ institutionellen Rahmenwerken, die Zugangsrechte für
-  kleine Fischereien anerkennen und schützen
-14-c-1-title: Anzahl der Staaten, die durch rechtliche, politische und institutionelle
-  Rahmenbedingungen bei der Ratifizierung, Verabschiedung und Umsetzung meeresbezogener
-  Instrumentarien, die internationales Recht zum Schutz und zur nachhaltigen Nutzung
-  der Ozeane und ihrer Ressourcen (wie es dem Seerechtsübereinkommen der Vereinten
-  Nationen entspricht) umsetzen, Fortschritte machen
-15-1-1-title: Waldfläche als Anteil an der gesamten Landfläche
-15-1-2-title: Anteil der bedeutenden Gebiete für Biodiversität an Land und im Süßwasser,
-  die in Schutzgebieten liegen, nach Ökosystemtyp
-15-2-1-title: Fortschritt bei der nachhaltigen Waldbewirtschaftung
-15-3-1-title: Anteil der Fläche, die von Bodendegradation betroffenen ist, an der
-  gesamten Landfläche
-15-4-1-title: Abdeckung der wichtigen Gebiete für Biodiversität in den Bergen durch
-  Schutzgebiete
-15-4-2-title: Index der Grünbedeckung in den Bergen
-15-5-1-title: Rote Liste Index
-15-6-1-title: Anzahl der Staaten, die gesetzliche, administrative und politische Rahmenbedingungen
-  geschaffen haben, um Vorteile gerecht und gleichmäßig zu verteilen
-15-7-1-title: Anteil der gehandelten Wildtiere, die gewildert oder geschmuggelt wurden
-15-8-1-title: Anteil der Staaten, die relevante nationale Rechtsvorschriften verabschiedet
-  haben und Maßnahmen zur Vermeidung oder Bekämpfung von invasiven, gebietsfremden
-  Arten angemessen finanzieren
-15-9-1-title: Fortschritte bei der Erreichung nationaler Ziele, die in Übereinstimmung
-  mit dem Aichi-Biodiversitätsziel 2 des Strategischen Plans zur Biodiversität 2011-2020
-  beschlossen wurden
-15-a-1-title: Öffentliche Entwicklungszusammenarbeit und öffentliche Ausgaben für
-  den Erhalt und die nachhaltige Nutzung biologischer Vielfalt und der Ökosysteme
-15-b-1-title: Öffentliche Entwicklungszusammenarbeit und öffentliche Ausgaben für
-  den Erhalt und die nachhaltige Nutzung biologischer Vielfalt und der Ökosysteme
-15-c-1-title: Anteil der gehandelten Wildtiere, die gewildert oder geschmuggelt wurden
-16-1-1-title: Anzahl der Opfern vorsätzlicher Tötung je 100.000 Einwohner, nach Geschlecht
-  und Alter
-16-1-2-title: Konfliktbedingte  Todesfälle je 100.000 Einwohner, nach Geschlecht,
-  Alter und Ursache
-16-1-3-title: Anteil der Bevölkerung, die in den vergangenen 12 Monaten (a) körperlicher
-  Gewalt, (b) psychischer Gewalt und (c) sexueller Gewalt ausgesetzt war
-16-1-4-title: Anteil der Bevölkerung, die sich in ihrem Wohngebiet alleine sicher
-  fühlt
-16-10-1-title: Anzahl der bestätigten Fälle von Tötung, Entführung, erzwungenem Verschwinden,
-  willkürlicher Inhaftierung und Folter von Journalisten, zugehörigem Medienpersonal,
-  Gewerkschaftern und Menschenrechtsanwälten in den vergangenen 12 Monaten
-16-10-2-title: Anzahl der Staaten, die verfassungsrechtliche, gesetzliche und/oder
-  politische Garantieren für den öffentlichen Zugang zu Informationen verabschiedet
-  und umgesetzt haben
-16-2-1-title: Anteil der Kinder im Alter von 1-17 Jahren, die im vergangenen Monat
-  eine körperliche Strafe und/oder psychische Aggression durch Betreuungspersonen
-  erfahren haben
-16-2-2-title: Anzahl der Opfer von Menschenhandel je 100.000 Einwohner, nach Geschlecht,
-  Alter und Art der Ausbeutung
-16-2-3-title: Anteil der jungen Frauen und Männer im Alter von 18-29 Jahren, die bis
-  zum Alter von 18 Jahren sexuelle Gewalt erlebt haben
-16-3-1-title: Anteil der Opfer von Gewalttaten in den vergangenen 12 Monaten, die
-  ihre Viktimisierung den zuständigen Behörden oder anderen offiziell anerkannten
-  Stellen der Konfliktaufarbeitung gemeldet haben
-16-3-2-title: Nicht-verurteilte Häftlinge als Anteil an der gesamten Gefangenenpopulation
-16-4-1-title: Gesamtwert der ein- und ausgehenden illegalen Finanzströme (in aktuellen
-  US-Dollar)
-16-4-2-title: Anteil der beschlagnahmten, aufgegriffenen oder abgegebenen Waffen,
-  deren illegale Herkunft oder Verwendung von einer zuständigen Behörde in Übereinstimmung
-  mit internationalen Methoden nachverfolgt oder festgestellt wurde
-16-5-1-title: Anteil der Personen, die in den vergangenen 12 Monaten mindestens einen
-  Kontakt zu einem öffentlichen Bediensteten hatten und diesem ein Bestechungsgeld
-  gezahlt haben oder von diesen um eine Bestechung gebeten wurden
-16-5-2-title: Anteil der Unternehmen, die in den vergangenen 12 Monaten mindestens
-  einen Kontakt mit einem öffentlichen Bediensteten hatten und diesem ein Bestechungsgeld
-  gezahlt haben oder von diesen um eine Bestechung gebeten wurden
-16-6-1-title: Primärausgaben des Staates als Anteil am ursprünglich genehmigten Budget,
-  nach Sektor (oder nach Haushaltscodes oder Ähnlichem)
-16-6-2-title: Anteil der Bevölkerung, die mit ihrer letzten Erfahrung mit öffentlichen
-  Dienstleistungen zufrieden war
-16-7-1-title: Anteil der Stellen (nach Geschlecht, Alter, Personen mit Behinderungen
-  und Bevölkerungsgruppen) in öffentlichen Institutionen (nationale und lokale Gesetzgebung,
-  öffentlicher Dienst und Judikative) im Vergleich zur nationalen Verteilungen
-16-7-2-title: Anteil der Bevölkerung, die glaubt, dass die Entscheidungsfindung inklusiv
-  und bedarfsgesteuert ist, nach Geschlecht, Alter, Behinderung und Bevölkerungsgruppe
-16-8-1-title: Anteil der Mitglieder und Stimmrechte von Entwicklungsländern in internationalen
-  Organisationen
-16-9-1-title: Anteil der Kinder unter 5 Jahre, deren Geburt von einer Zivilbehörde
-  registriert wurde, nach Alter
-16-a-1-title: Existenz von unabhängigen nationalen Menschenrechtsinstitutionen in
-  Übereinstimmung mit den 'Pariser Grundsätzen
-16-b-1-title: Anteil der Bevölkerung, die angibt sich in den vergangenen 12 Monaten
-  persönlich auf Basis einer Diskriminierung, die nach internationalem Menschenrecht
-  verboten ist, diskriminiert oder belästigt gefühlt zu haben
-17-1-1-title: Gesamte Staatseinnahmen als Anteil am BIP, nach Quelle
-17-1-2-title: Anteil des Haushaltsbudgets, das durch inländische Steuern finanziert
-  wird
-17-10-1-title: Weltweit gewichtete durchschnittliche Zollsätze
-17-11-1-title: Anteil der Entwicklungsländer und der am wenigsten entwickelten Länder
-  an den weltweiten Exporten
-17-12-1-title: Durchschnittliche Zölle für Entwicklungsländer, am wenigsten entwickelte
-  Länder und kleine Inselentwicklungsländer
-17-13-1-title: Makroökonomisches Dashboard
-17-14-1-title: Anzahl der Staaten mit Mechanismen zur Verbesserung der Politikkohärenz
-  bezogen auf nachhaltige Entwicklung
-17-15-1-title: Umfang der Nutzung ländereigener Ergebnisrahmenwerke und Planungsinstrumente
-  durch  Anbieter von Entwicklungszusammenarbeit
-17-16-1-title: Anzahl der Staaten, die Fortschritte bei der Kontrolle der Multi-Stakeholder-Entwicklungswirksamkeit,
-  die das Erreichen der Ziele für nachhaltige Entwicklung unterstützen, berichten
-17-17-1-title: Betrag an US-Dollar, der für (a) öffentlich-private Partnerschaften
-  und (b) zivilgesellschaftliche Partnerschaften zugesagt wurde
-17-18-1-title: Anteil der Nachhaltigkeitsindikatoren, die auf nationaler Ebene vollständig
-  - sofern gemäß dem Unterziel relevant - disaggregiert sind, in Übereinstimmung mit
-  den Grundprinzipien der amtlichen Statistik
-17-18-2-title: Anzahl der Staaten mit einer nationalen statistischen Gesetzgebung
-  im Einklang mit den Grundprinzipien der amtlichen Statistik
-17-18-3-title: Anzahl der Staaten mit einem nationalen statistischen Plan, der vollständig
-  finanziert ist und umgesetzt wird, nach Quelle der Finanzierung
-17-19-1-title: Dollar-Wert aller zur Verfügung gestellten Ressourcen zur Stärkung
-  der statistischen Kapazität in Entwicklungsländern
-17-19-2-title: Anteil der Staaten, die (a) in den letzten 10 Jahren mindestens eine
-  Bevölkerungs- und Wohnungszählung durchgeführt haben und (b) 100% bei der Geburtenregistrierung
-  sowie 80% bei der Registrierung der Sterbefälle erreicht haben
-17-2-1-title: Öffentliche Nettoentwicklungsausgaben, insgesamt und an am wenigsten
-  entwickelte Länder, als Anteil am Bruttonationaleinkommen (BNE) der Geberländer
-  des Ausschusses für Entwicklungshilfe der Organisation für wirtschaftliche Zusammenarbeit
-  und Entwicklung (OECD)
-17-3-1-title: Ausländische Direktinvestitionen, öffentliche Entwicklungszusammenarbeit
-  und Süd-Süd-Kooperationen als Anteil am gesamten Haushaltsbudget
-17-3-2-title: Volumen der (Rück-)Überweisungen (in US-Dollar) als Anteil am gesamten
-  BIP
-17-4-1-title: Schuldendienst als Anteil an Güter- und Dienstleistungsexporten
-17-5-1-title: Anzahl der Staaten, die Investitionsförderprogramme für die am wenigsten
-  entwickelten Länder einführen und umsetzen
-17-6-1-title: Anzahl der Vereinbarungen und Programme über Wissenschafts- und/oder
-  Technologie-Kooperationen zwischen Staaten, nach Art der Kooperation
-17-6-2-title: Internet-Breitband-Verträge je 100 Einwohner, nach Geschwindigkeit
-17-7-1-title: Gesamtbetrag der für Entwicklungsländer genehmigten Mittel zur Förderung
-  der Entwicklung, des Transfers, der öffentlichen Bereitstellung und der Verbreitung
-  umweltfreundlicher Technologien
-17-8-1-title: Anteil der Einzelpersonen, die das Internet nutzen
-17-9-1-title: Dollar-Wert der finanziellen und technischen Zusammenarbeit (einschließlich
-  durch Nord-Süd-, Süd-Süd- und Dreieckskooperationen) mit Entwicklungsländern
-2-1-1-title: Eigenheime 1
-2-1-2-title: Eigenheime 2
-2-2-1-title: Eigenheime 3
-3-1-1-title: Wohnheime 1
-3-1-2-title: Wohnheime 2
-3-2-1-title: Wohnheime 3
-4-1-1-title: Mieten 1
-4-2-1-title: Mieten 2
-4-2-2-title: Mieten 3
-5-1-1-title: Bauvorhaben 1
-5-2-1-title: Bauvorhaben 2
-5-2-2-title: Bauvorhaben 3
-6-1-1-title: Bauvorhaben 1
-6-2-1-title: Bauvorhaben 2
-6-3-1-title: Bauvorhaben 3
-7-1-1-title: Baukosten 1
-7-1-2-title: Baukosten 2
-7-2-1-title: Baukosten 3
-8-1-1-title: Grundstücke 1
+2-1-1-title: Eigenheime 1 Anzahl der Eigenheime
+2-1-2-title: Eigenheime 2 Eigenheime und Fläche
+2-2-1-title: Eigenheime 3 Verhältnis Eigenheime / Mietwohnungen
+3-1-1-title: Wohnheime 1 Anzahl der Wohnheime
+3-1-2-title: Wohnheime 2 Sind Pflegeheime Wohnheime?
+3-2-1-title: Wohnheime 3 Asylbewerberunterkünfte, Obdachlosenunterkünfte
+4-1-1-title: Mieten 1 Nettokaltmieten, Nebenkosten, Mikrozensus
+4-2-1-title: Mieten 2 Mieten nach Bevölkerung (Alter, Familien, Migrationshintergrund) Miktorzensus
+4-2-2-title: Mieten 3 Mietbelastungsquote Mikrozensus
+5-1-1-title: Bauvorhaben 1 LSN Online Tabelle Z8090101 Baumaßnahmen und neue Gebäude, Nutzfläche, Kosten, Wohnungen insgesamt und Anzahl Räume und Nichtwohngebäude Kreisebene
+5-2-1-title: Bauvorhaben 2 Sinnvolle Aufteilung finden des unter 1 genannten
+5-2-2-title: Bauvorhaben 3 Sinnvolle Aufteilung finden des unter 1 genannten
+6-1-1-title: Baufertigstellungen 1 LSN Online K8100116 Wohngebäude (1-2 Wohnungen, 3 und  mehr Wohnungen), Wohngebäude, Wohngebäuden nach Anzahl der Zimmer,  Nichtwohngebäude, Nutzfläche, Veranschlagte Kochen (???)
+6-2-1-title: Baufertigstellungen 2 Sinnvolle Aufteilung des unter 1 genannten
+6-3-1-title: Baufertigstellungen 3 Sinnvolle Aufteilung des unter 1 genannten
+7-1-1-title: Baukosten 1 Baukosten aus Baugenehmigung und Baufetigstellung
+7-1-2-title: Baukosten 2 Baukkosten Wohnungen nach Anzahl der Zimmer
+7-2-1-title: Baukosten 3 
+8-1-1-title: Grundstücke 1  LSN Online Tabelle K9280111 Fälle, Flächen, Preise, baureifes Baulans, Rohbauland, Sonstiges, Insgesamt, Kreisebene, Zeitreihe, Kaufsumme, durchscnittliche Kaufwerte/qm
 8-2-1-title: Grundstücke 2
 8-3-1-title: Grundstücke 3
-9-1-1-title: Steuern und Abgaben 1
-9-1-2-title: Steuern und Abgaben 2
+9-1-1-title: Steuern und Abgaben 1 Grunderwerbsteuer und Gewerbesteuersätze
+9-1-2-title: Steuern und Abgaben 2 Grundsteuer und Hebesätze
 9-2-1-title: Steuern und Abgaben 3
