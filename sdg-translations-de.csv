@@ -1,135 +1,10 @@
 ﻿key,en,de
-global_goals:1-short,No poverty,Gebäude
-global_goals:1-title,End poverty in all its forms everywhere,Gebäude in Niedersachsen
-global_goals:10-short,Reduced inequalities,Mietwohnungen
-global_goals:10-title,Reduce inequality within and among countries,Mietwohnungen in Niedersachsen
-global_goals:11-short,Sustainable cities & communities,Nachhaltige Städte und Gemeinden
-global_goals:11-title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Städte und Siedlungen inklusiv, sicher, widerstandsfähig und nachhaltig gestalten"
-global_goals:12-short,Responsible consumption and production,Verantwortungsvolle Konsum- und Produktionsmuster
-global_goals:12-title,Ensure sustainable consumption and production patterns,Nachhaltige Konsum- und Produktionsmuster sicherstellen
-global_goals:13-short,Climate action,Maßnahmen zum Klimaschutz
-global_goals:13-title,Take urgent action to combat climate change and its impacts,Umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen ergreifen
-global_goals:14-short,Life below water,Leben unter Wasser
-global_goals:14-title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Ozeane, Meere und Meeresressourcen im Sinne nachhaltiger Entwicklung erhalten und nachhaltig nutzen"
-global_goals:15-short,Life on land,Leben an Land
-global_goals:15-title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Landökosysteme schützen, wiederherstellen und ihre nachhaltige Nutzung fördern, Wälder nachhaltig bewirtschaften, Wüstenbildung bekämpfen, Bodendegradation beenden und umkehren und "
-global_goals:16-short,Peace and justice - strong institutions,
-global_goals:16-title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
-global_goals:17-short,Partnerships for the goals,
-global_goals:17-title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,
-global_goals:2-short,Zero hunger,Eigenheime
-global_goals:2-title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture",Eigenheime in Niedersachsen
-global_goals:3-short,Good health and well-being,Wohnheime und andere Unterkünfte
-global_goals:3-title,Ensure healthy lives and promote well-being for all at all ages,Wohnheime und andere Unterkünfte in Niedersachsen
-global_goals:4-short,Quality education,Mieten
-global_goals:4-title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Mieten in Niedersachsen
-global_goals:5-short,Gender equality,Bauvorhaben
-global_goals:5-title,Achieve gender equality and empower all women and girls,Bauen in Niedersachsen
-global_goals:6-short,Clean water and sanitation,Baufertigstellungen
-global_goals:6-title,Ensure availability and sustainable management of water and sanitation for all,Baufertigstellungen in Niedersachsen
-global_goals:7-short,Affordable and clean energy,Baukosten
-global_goals:7-title,"Ensure access to affordable, reliable, sustainable and modern energy for all",Was kosten das Eigenheim?
-global_goals:8-short,Decent jobs and economic growth,Grundstücke
-global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Grunstückspreise und Preisentwicklung in Niedersachsen
-global_goals:9-short,"Industry, innovation and infrastructure",Grunderwerbssteuer
-global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",Grunderwerbsteuer in Niedersachsen
-status:reporting_status,Reporting Status,Berichtsstatus
-status:overall_reporting_status,Overall Reporting Status,Übersicht zum Berichtsstatus
-status:reported_online,Reported online,Daten verfügbar
-status:statistics_in_progress,Statistics in progress,in Bearbeitung
-status:exploring_data_sources,Exploring data sources,Datenquellenanalyse
-status:not_applicable,Not applicable,Nicht zutreffend
-status:status_by_goal,Status by goal,Status nach Ziel
-status:status_by_field,Status by %field,Status von %field
 frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.",Klicken Sie auf die einzelnen Themen um zu den Daten den Indikatoren des Wohnungskompass zu kommen. Oder %before_link suchen %after_link Sie gezielt nach spezifischen Themen.
 frontpage:heading,%name data for Sustainable Development Goal indicators,
 frontpage:download_all,Download all data,Laden Sie alle Daten herunter
 frontpage:zip_file,ZIP file,zip-Datei
 frontpage:intro_title,17 goals to transform our world,Hauptsache ein Dach über dem Kopf - Wohnen in Niedersachsen 2020
 frontpage:intro_body,"The <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda for Sustainable Development</a>.","Wie viele Wohnungen gibt es in Niedersachsen? Wie hoch ist die Eigenheimquote in meinem Kreis? Wie hoch ist die durchschnittliche Miete? Wo wohnen Menschen mit Migrationshintergrund und wie sind eigentlich die Grundstückpreise in Niedersachsen, den Landkreisen und den Kreisfreien Städten? Antworten auf diese und viele weitere Fragen rund um das Theme Mieten, Wohnen und Eigenheim finden Sie in dem Wohnungskompass Niedersachsen"
-metadata_fields:other_info,Other information,Analyse
-metadata_fields:computation_calculations,Calculations,Methodische Hinweise
-metadata_fields:computation_definitions,Definitions,Definitionen
-metadata_fields:computation_units,Unit of measurement,Einheit
-metadata_fields:goal_meta_link,Link to UN metadata,Link zu den globalen Metadaten
-metadata_fields:indicator,Indicator number,Indikatorennummerierung
-metadata_fields:indicator_definition,Global indicator description,Globale Indikatorenbeschreibung
-metadata_fields:indicator_name,Indicator name,Indikatorenbezeichnung
-metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Indikatorenreihenfolge (in der Zielübersicht)
-metadata_fields:national_data_update_url,Data last updated,Daten zuletzt aktualisiert am
-metadata_fields:national_geographical_coverage,Geographical coverage,Geographische Abdeckung
-metadata_fields:national_indicator_available,Indicator available,Verfügbare Datenreihenbezeichnung
-metadata_fields:national_indicator_description,Indicator description,Definition des Indikators
-metadata_fields:national_metadata_update_url,Metadata last updated,Metadaten zuletzt aktualisiert am
-metadata_fields:source_contact_1,Contact details,Kontaktinformationen
-metadata_fields:source_contact_2,Contact details,Kontaktinformationen
-metadata_fields:source_contact_3,Contact details,Kontaktinformationen
-metadata_fields:source_contact_4,Contact details,Kontaktinformationen
-metadata_fields:source_contact_5,Contact details,Kontaktinformationen
-metadata_fields:source_contact_6,Contact details,Kontaktinformationen
-metadata_fields:source_earliest_available_1,Earliest available data,Daten verfügbar seit
-metadata_fields:source_earliest_available_2,Earliest available data,Daten verfügbar seit
-metadata_fields:source_earliest_available_3,Earliest available data,Daten verfügbar seit
-metadata_fields:source_earliest_available_4,Earliest available data,Daten verfügbar seit
-metadata_fields:source_earliest_available_5,Earliest available data,Daten verfügbar seit
-metadata_fields:source_earliest_available_6,Earliest available data,Daten verfügbar seit
-metadata_fields:source_geographical_coverage_1,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_2,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_3,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_4,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_5,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_6,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_next_release_1,Next release,Nächste Veröffentlichung am
-metadata_fields:source_next_release_2,Next release,Nächste Veröffentlichung am
-metadata_fields:source_next_release_3,Next release,Nächste Veröffentlichung am
-metadata_fields:source_next_release_4,Next release,Nächste Veröffentlichung am
-metadata_fields:source_next_release_5,Next release,Nächste Veröffentlichung am
-metadata_fields:source_next_release_6,Next release,Nächste Veröffentlichung am
-metadata_fields:source_organisation_1,Organisation,Organisation
-metadata_fields:source_organisation_2,Organisation,Organisation
-metadata_fields:source_organisation_3,Organisation,Organisation
-metadata_fields:source_organisation_4,Organisation,Organisation
-metadata_fields:source_organisation_5,Organisation,Organisation
-metadata_fields:source_organisation_6,Organisation,Organisation
-metadata_fields:source_other_info_1,Other information,Weitere Informationen
-metadata_fields:source_other_info_2,Other information,Weitere Informationen
-metadata_fields:source_other_info_3,Other information,Weitere Informationen
-metadata_fields:source_other_info_4,Other information,Weitere Informationen
-metadata_fields:source_other_info_5,Other information,Weitere Informationen
-metadata_fields:source_other_info_6,Other information,Weitere Informationen
-metadata_fields:source_periodicity_1,Periodicity,Periodizität
-metadata_fields:source_periodicity_2,Periodicity,Periodizität
-metadata_fields:source_periodicity_3,Periodicity,Periodizität
-metadata_fields:source_periodicity_4,Periodicity,Periodizität
-metadata_fields:source_periodicity_5,Periodicity,Periodizität
-metadata_fields:source_periodicity_6,Periodicity,Periodizität
-metadata_fields:source_release_date_1,Release date,Veröffentlichungsdatum
-metadata_fields:source_release_date_2,Release date,Veröffentlichungsdatum
-metadata_fields:source_release_date_3,Release date,Veröffentlichungsdatum
-metadata_fields:source_release_date_4,Release date,Veröffentlichungsdatum
-metadata_fields:source_release_date_5,Release date,Veröffentlichungsdatum
-metadata_fields:source_release_date_6,Release date,Veröffentlichungsdatum
-metadata_fields:source_statistical_classification_1,Statistical classification, Datentyp
-metadata_fields:source_statistical_classification_2,Statistical classification,Datentyp
-metadata_fields:source_statistical_classification_3,Statistical classification,Datentyp
-metadata_fields:source_statistical_classification_4,Statistical classification,Datentyp
-metadata_fields:source_statistical_classification_5,Statistical classification,Datentyp
-metadata_fields:source_statistical_classification_6,Statistical classification,Datentyp
-metadata_fields:source_url_1,Link to data source,Tabelle zum Download
-metadata_fields:source_url_2,Link to data source,Link zur Datenquelle
-metadata_fields:source_url_3,Link to data source,Link zur Datenquelle
-metadata_fields:source_url_4,Link to data source,Link zur Datenquelle
-metadata_fields:source_url_5,Link to data source,Link zur Datenquelle
-metadata_fields:source_url_6,Link to data source,Link zur Datenquelle
-metadata_fields:target,Target name,Unterziel
-metadata_fields:target_id,Target number,Unterzielnummerierung
-metadata_fields:un_custodian_agency,UN custodian agency,VN Custodian Agency
-metadata_fields:un_designated_tier,UN designated tier,VN Tier Klassifikation
-metadata_fields:quality_assurance,Quality assurance,Qualitätssicherung
-metadata_fields:international_comparability,Comparability with international data/standards,Vergleichbarkeit mit internationalen Daten / Standards
-metadata_fields:comments_limitations,Comments and limitations,Kommentare und Einschränkungen
-metadata_fields:rational_interpretation,Rational and interpretation,Vernunft und Interpretation
-metadata_fields:copyright,Copyright,Urheberrechte
 global_indicators:1-1-1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)",Bestand an Wohnungen in Wohn- und  Nichtwohngebäuden zu Jahresbeginn und Jahresende
 global_indicators:1-2-1-title,"Proportion of population living below the national poverty line, by sex and age",Wohnungen nach Anzahl der Zimmer
 global_indicators:1-2-2-title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Durchschnittliche Fläche je Wohnung
@@ -144,9 +19,9 @@ global_indicators:1-a-1-title,Proportion of domestically generated resources all
 global_indicators:1-a-2-title,"Proportion of total government spending on essential services (education, health and social protection)",
 global_indicators:1-a-3-title,Sum of total grants and non-debt-creating inflows directly allocated to poverty reduction programmes as a proportion of GDP,
 global_indicators:1-b-1-title,"Proportion of government recurrent and capital spending to sectors that disproportionately benefit women, the poor and vulnerable groups",
-global_indicators:10-1-1-title,Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population,Mietwohnungen 1
-global_indicators:10-2-1-title,"Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Mietwohnungen 2
-global_indicators:10-3-1-title,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,Miwtwohnungen 3
+global_indicators:10-1-1-title,Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population,Mietwohnungen 1 Größe der Wohnungen
+global_indicators:10-2-1-title,"Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Mietwohnungen 2 Anzahl der Zimmer
+global_indicators:10-3-1-title,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,"Miwtwohnungen 3 Größe der Wohnung und Anzahl der Zimmer nach Familien, Singles, Migrationshintergrund"
 global_indicators:10-4-1-title,"Labour share of GDP, comprising wages and social protection transfers",
 global_indicators:10-5-1-title,Financial Soundness Indicators (FSIs),
 global_indicators:10-6-1-title,Proportion of members and voting rights of developing countries in international organizations,
@@ -183,89 +58,89 @@ global_indicators:12-8-1-title,Extent to which (i) global citizenship education 
 global_indicators:12-a-1-title,Amount of support to developing countries on research and development for sustainable consumption and production and environmentally sound technologies,
 global_indicators:12-b-1-title,Number of sustainable tourism strategies or policies and implemented action plans with agreed monitoring and evaluation tools,
 global_indicators:12-c-1-title,Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels,
-global_indicators:13-1-1-title,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population","Anzahl der infolge von Katastrophen getöteten, vermissten und direkt betroffenen Personen, je 100.000 Einwohner"
-global_indicators:13-1-2-title,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,"Anzahl der Staaten, die nationale Strategien zur Reduzierung des Katastrophenrisikos in Einklang mit dem Sendai-Rahmenwerk zur Katastrophenvorsorge 2015-2030 verabschiedet und umgesetzt haben"
-global_indicators:13-1-3-title,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,"Anteil der lokalen Regierungen, die lokale Strategien zur Reduzierung des Katastrophenrisikos in Einklang mit den nationalen Strategien zur Katastrophenvorsorge verabschiedet und umgesetzt haben"
-global_indicators:13-2-1-title,"Number of countries that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change, and foster climate resilience and low greenhouse gas emissions development in a manner that does not threaten food production (including a national adaptation plan, nationally determined contribution, national communication, biennial update report or other)","Anzahl der Staaten, die die Ausarbeitung oder Umsetzung einer/s integrierten Politik/Strategie/Plans verkündet haben, welche/r ihre Fähigkeit zur Anpassung an die negativen Auswirkungen des Klimawandels erhöht und die Widerstandsfähigkeit gegenüber Klimaänderungen als auch eine rückläufige Entwicklung der Treibhausgasemissionen fördert ohne die Nahrungsmittelproduktion zu gefährden (einschließlich eines nationalen Anpassungsplans, national festgelegten Beitrags, nationaler Kommunikation, zweijährlichen Aktualisierungsberichts oder anderer)"
-global_indicators:13-3-1-title,"Number of countries that have integrated mitigation, adaptation, impact reduction and early warning into primary, secondary and tertiary curricula","Anzahl der Staaten, die die Minderung, Anpassung, Reduzierung der Auswirkungen und Frühwarnsysteme in den primären, sekundären und tertiären Lehrplänen integriert haben"
-global_indicators:13-3-2-title,"Number of countries that have communicated the strengthening of institutional, systemic and individual capacity-building to implement adaptation, mitigation and technology transfer, and development actions","Anzahl der Staaten, die die Stärkung des institutionellen, systemischen und individuellen Kapazitätsaufbaus zur Umsetzung von Anpassung, Minderung und Technologietransfer und Entwicklungsmaßnahmen verkündet haben"
-global_indicators:13-a-1-title,Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment,"Mobilisierter Betrag an US-Dollar pro Jahr zwischen 2020 und 2025, anrechenbar auf die Zusage von 100 Milliarden US-Dollar"
-global_indicators:13-b-1-title,"Number of least developed countries and small island developing States that are receiving specialized support, and amount of support, including finance, technology and capacity-building, for mechanisms for raising capacities for effective climate change-related planning and management, including focusing on women, youth and local and marginalized communities","Anzahl der am wenigsten entwickelten Länder und kleinen Inselentwicklungsstaaten, die besondere Unterstützung erhalten und der Betrag der Unterstützung (Finanzmittel, Technologie und capacity-building umfassend) für Mechanismen zum Aufbau von Kapazitäten für eine wirksame klimawandelbezogene Planung und Verwaltung, mit Fokus auf Frauen, Jugendliche und lokale und marginalisierte Gemeinschaften"
-global_indicators:14-1-1-title,Index of coastal eutrophication and floating plastic debris density,Index der Eutrophierung der Küsten und Konzentration des schwimmenden Plastikmülls
-global_indicators:14-2-1-title,Proportion of national exclusive economic zones managed using ecosystem-based approaches,"Anteil der nationalen ausschließlichen Wirtschaftszonen, die mit ökosystembasierten Ansätzen verwaltet werden"
-global_indicators:14-3-1-title,Average marine acidity (pH) measured at agreed suite of representative sampling stations,Durchschnittliche Versauerung der Meere (pH) gemessen an einer vereinbarten Reihe von repräsentativen Probeentnahmestationen
-global_indicators:14-4-1-title,Proportion of fish stocks within biologically sustainable levels,Anteil der Fischbestände innerhalb des biologisch nachhaltigen Niveaus
-global_indicators:14-5-1-title,Coverage of protected areas in relation to marine areas,Abdeckung durch Schutzgebiete im Vergleich zu Meeresgebieten
-global_indicators:14-6-1-title,"Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing","Fortschritt der Staaten hinsichtlich des Grades der Umsetzung internationaler Instrumente mit dem Ziel zur Bekämpfung illegaler, nicht gemeldeter und unregulierter Fischerei"
-global_indicators:14-7-1-title,"Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries","Nachhaltige Fischerei als Anteil am BIP in kleinen Inselentwicklungsstaaten, in den am wenigsten entwickelten Ländern und allen Ländern"
-global_indicators:14-a-1-title,Proportion of total research budget allocated to research in the field of marine technology,Anteil am gesamten Forschungsbudget für Forschung im Bereich der Meerestechnik
-global_indicators:14-b-1-title,Progress by countries in the degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries,"Fortschritt der Staaten hinsichtlich der Umsetzung von gesetzlichen/ regulatorischen/ politischen/ institutionellen Rahmenwerken, die Zugangsrechte für kleine Fischereien anerkennen und schützen"
-global_indicators:14-c-1-title,"Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources","Anzahl der Staaten, die durch rechtliche, politische und institutionelle Rahmenbedingungen bei der Ratifizierung, Verabschiedung und Umsetzung meeresbezogener Instrumentarien, die internationales Recht zum Schutz und zur nachhaltigen Nutzung der Ozeane und ihrer Ressourcen (wie es dem Seerechtsübereinkommen der Vereinten Nationen entspricht) umsetzen, Fortschritte machen"
-global_indicators:15-1-1-title,Forest area as a proportion of total land area,Waldfläche als Anteil an der gesamten Landfläche
-global_indicators:15-1-2-title,"Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type","Anteil der bedeutenden Gebiete für Biodiversität an Land und im Süßwasser, die in Schutzgebieten liegen, nach Ökosystemtyp"
-global_indicators:15-2-1-title,Progress towards sustainable forest management,Fortschritt bei der nachhaltigen Waldbewirtschaftung
-global_indicators:15-3-1-title,Proportion of land that is degraded over total land area,"Anteil der Fläche, die von Bodendegradation betroffenen ist, an der gesamten Landfläche"
-global_indicators:15-4-1-title,Coverage by protected areas of important sites for mountain biodiversity,Abdeckung der wichtigen Gebiete für Biodiversität in den Bergen durch Schutzgebiete
-global_indicators:15-4-2-title,Mountain Green Cover Index,Index der Grünbedeckung in den Bergen
-global_indicators:15-5-1-title,Red List Index,Rote Liste Index
-global_indicators:15-6-1-title,"Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits","Anzahl der Staaten, die gesetzliche, administrative und politische Rahmenbedingungen geschaffen haben, um Vorteile gerecht und gleichmäßig zu verteilen"
-global_indicators:15-7-1-title,Proportion of traded wildlife that was poached or illicitly trafficked,"Anteil der gehandelten Wildtiere, die gewildert oder geschmuggelt wurden"
-global_indicators:15-8-1-title,Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species,"Anteil der Staaten, die relevante nationale Rechtsvorschriften verabschiedet haben und Maßnahmen zur Vermeidung oder Bekämpfung von invasiven, gebietsfremden Arten angemessen finanzieren"
-global_indicators:15-9-1-title,Progress towards national targets established in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020,"Fortschritte bei der Erreichung nationaler Ziele, die in Übereinstimmung mit dem Aichi-Biodiversitätsziel 2 des Strategischen Plans zur Biodiversität 2011-2020 beschlossen wurden"
-global_indicators:15-a-1-title,Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems,Öffentliche Entwicklungszusammenarbeit und öffentliche Ausgaben für den Erhalt und die nachhaltige Nutzung biologischer Vielfalt und der Ökosysteme
-global_indicators:15-b-1-title,Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems,Öffentliche Entwicklungszusammenarbeit und öffentliche Ausgaben für den Erhalt und die nachhaltige Nutzung biologischer Vielfalt und der Ökosysteme
-global_indicators:15-c-1-title,Proportion of traded wildlife that was poached or illicitly trafficked,"Anteil der gehandelten Wildtiere, die gewildert oder geschmuggelt wurden"
-global_indicators:16-1-1-title,"Number of victims of intentional homicide per 100,000 population, by sex and age","Anzahl der Opfern vorsätzlicher Tötung je 100.000 Einwohner, nach Geschlecht und Alter"
-global_indicators:16-1-2-title,"Conflict-related deaths per 100,000 population, by sex, age and cause","Konfliktbedingte  Todesfälle je 100.000 Einwohner, nach Geschlecht, Alter und Ursache"
-global_indicators:16-1-3-title,"Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months","Anteil der Bevölkerung, die in den vergangenen 12 Monaten (a) körperlicher Gewalt, (b) psychischer Gewalt und (c) sexueller Gewalt ausgesetzt war"
-global_indicators:16-1-4-title,Proportion of population that feel safe walking alone around the area they live,"Anteil der Bevölkerung, die sich in ihrem Wohngebiet alleine sicher fühlt"
-global_indicators:16-10-1-title,"Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months","Anzahl der bestätigten Fälle von Tötung, Entführung, erzwungenem Verschwinden, willkürlicher Inhaftierung und Folter von Journalisten, zugehörigem Medienpersonal, Gewerkschaftern und Menschenrechtsanwälten in den vergangenen 12 Monaten"
-global_indicators:16-10-2-title,"Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information","Anzahl der Staaten, die verfassungsrechtliche, gesetzliche und/oder politische Garantieren für den öffentlichen Zugang zu Informationen verabschiedet und umgesetzt haben"
-global_indicators:16-2-1-title,Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,"Anteil der Kinder im Alter von 1-17 Jahren, die im vergangenen Monat eine körperliche Strafe und/oder psychische Aggression durch Betreuungspersonen erfahren haben"
-global_indicators:16-2-2-title,"Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation","Anzahl der Opfer von Menschenhandel je 100.000 Einwohner, nach Geschlecht, Alter und Art der Ausbeutung"
-global_indicators:16-2-3-title,Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18,"Anteil der jungen Frauen und Männer im Alter von 18-29 Jahren, die bis zum Alter von 18 Jahren sexuelle Gewalt erlebt haben"
-global_indicators:16-3-1-title,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms,"Anteil der Opfer von Gewalttaten in den vergangenen 12 Monaten, die ihre Viktimisierung den zuständigen Behörden oder anderen offiziell anerkannten Stellen der Konfliktaufarbeitung gemeldet haben"
-global_indicators:16-3-2-title,Unsentenced detainees as a proportion of overall prison population,Nicht-verurteilte Häftlinge als Anteil an der gesamten Gefangenenpopulation
-global_indicators:16-4-1-title,Total value of inward and outward illicit financial flows (in current United States dollars),Gesamtwert der ein- und ausgehenden illegalen Finanzströme (in aktuellen US-Dollar)
-global_indicators:16-4-2-title,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments","Anteil der beschlagnahmten, aufgegriffenen oder abgegebenen Waffen, deren illegale Herkunft oder Verwendung von einer zuständigen Behörde in Übereinstimmung mit internationalen Methoden nachverfolgt oder festgestellt wurde"
-global_indicators:16-5-1-title,"Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months","Anteil der Personen, die in den vergangenen 12 Monaten mindestens einen Kontakt zu einem öffentlichen Bediensteten hatten und diesem ein Bestechungsgeld gezahlt haben oder von diesen um eine Bestechung gebeten wurden"
-global_indicators:16-5-2-title,"Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months","Anteil der Unternehmen, die in den vergangenen 12 Monaten mindestens einen Kontakt mit einem öffentlichen Bediensteten hatten und diesem ein Bestechungsgeld gezahlt haben oder von diesen um eine Bestechung gebeten wurden"
-global_indicators:16-6-1-title,"Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)","Primärausgaben des Staates als Anteil am ursprünglich genehmigten Budget, nach Sektor (oder nach Haushaltscodes oder Ähnlichem)"
-global_indicators:16-6-2-title,Proportion of population satisfied with their last experience of public services,"Anteil der Bevölkerung, die mit ihrer letzten Erfahrung mit öffentlichen Dienstleistungen zufrieden war"
-global_indicators:16-7-1-title,"Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions","Anteil der Stellen (nach Geschlecht, Alter, Personen mit Behinderungen und Bevölkerungsgruppen) in öffentlichen Institutionen (nationale und lokale Gesetzgebung, öffentlicher Dienst und Judikative) im Vergleich zur nationalen Verteilungen"
-global_indicators:16-7-2-title,"Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group","Anteil der Bevölkerung, die glaubt, dass die Entscheidungsfindung inklusiv und bedarfsgesteuert ist, nach Geschlecht, Alter, Behinderung und Bevölkerungsgruppe"
-global_indicators:16-8-1-title,Proportion of members and voting rights of developing countries in international organizations,Anteil der Mitglieder und Stimmrechte von Entwicklungsländern in internationalen Organisationen
-global_indicators:16-9-1-title,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age","Anteil der Kinder unter 5 Jahre, deren Geburt von einer Zivilbehörde registriert wurde, nach Alter"
-global_indicators:16-a-1-title,Existence of independent national human rights institutions in compliance with the Paris Principles,Existenz von unabhängigen nationalen Menschenrechtsinstitutionen in Übereinstimmung mit den 'Pariser Grundsätzen
-global_indicators:16-b-1-title,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,"Anteil der Bevölkerung, die angibt sich in den vergangenen 12 Monaten persönlich auf Basis einer Diskriminierung, die nach internationalem Menschenrecht verboten ist, diskriminiert oder belästigt gefühlt zu haben"
-global_indicators:17-1-1-title,"Total government revenue as a proportion of GDP, by source","Gesamte Staatseinnahmen als Anteil am BIP, nach Quelle"
-global_indicators:17-1-2-title,Proportion of domestic budget funded by domestic taxes,"Anteil des Haushaltsbudgets, das durch inländische Steuern finanziert wird"
-global_indicators:17-10-1-title,Worldwide weighted tariff-average,Weltweit gewichtete durchschnittliche Zollsätze
-global_indicators:17-11-1-title,Developing countries’ and least developed countries’ share of global exports,Anteil der Entwicklungsländer und der am wenigsten entwickelten Länder an den weltweiten Exporten
-global_indicators:17-12-1-title,"Average tariffs faced by developing countries, least developed countries and small island developing States","Durchschnittliche Zölle für Entwicklungsländer, am wenigsten entwickelte Länder und kleine Inselentwicklungsländer"
-global_indicators:17-13-1-title,Macroeconomic Dashboard,Makroökonomisches Dashboard
-global_indicators:17-14-1-title,Number of countries with mechanisms in place to enhance policy coherence of sustainable development,Anzahl der Staaten mit Mechanismen zur Verbesserung der Politikkohärenz bezogen auf nachhaltige Entwicklung
-global_indicators:17-15-1-title,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation,Umfang der Nutzung ländereigener Ergebnisrahmenwerke und Planungsinstrumente durch  Anbieter von Entwicklungszusammenarbeit
-global_indicators:17-16-1-title,Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals,"Anzahl der Staaten, die Fortschritte bei der Kontrolle der Multi-Stakeholder-Entwicklungswirksamkeit, die das Erreichen der Ziele für nachhaltige Entwicklung unterstützen, berichten"
-global_indicators:17-17-1-title,Amount of United States dollars committed to public-private and civil society partnerships,"Betrag an US-Dollar, der für (a) öffentlich-private Partnerschaften und (b) zivilgesellschaftliche Partnerschaften zugesagt wurde"
-global_indicators:17-18-1-title,"Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics","Anteil der Nachhaltigkeitsindikatoren, die auf nationaler Ebene vollständig - sofern gemäß dem Unterziel relevant - disaggregiert sind, in Übereinstimmung mit den Grundprinzipien der amtlichen Statistik"
-global_indicators:17-18-2-title,Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics,Anzahl der Staaten mit einer nationalen statistischen Gesetzgebung im Einklang mit den Grundprinzipien der amtlichen Statistik
-global_indicators:17-18-3-title,"Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding","Anzahl der Staaten mit einem nationalen statistischen Plan, der vollständig finanziert ist und umgesetzt wird, nach Quelle der Finanzierung"
-global_indicators:17-19-1-title,Dollar value of all resources made available to strengthen statistical capacity in developing countries,Dollar-Wert aller zur Verfügung gestellten Ressourcen zur Stärkung der statistischen Kapazität in Entwicklungsländern
-global_indicators:17-19-2-title,Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration,"Anteil der Staaten, die (a) in den letzten 10 Jahren mindestens eine Bevölkerungs- und Wohnungszählung durchgeführt haben und (b) 100% bei der Geburtenregistrierung sowie 80% bei der Registrierung der Sterbefälle erreicht haben"
-global_indicators:17-2-1-title,"Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)","Öffentliche Nettoentwicklungsausgaben, insgesamt und an am wenigsten entwickelte Länder, als Anteil am Bruttonationaleinkommen (BNE) der Geberländer des Ausschusses für Entwicklungshilfe der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD)"
-global_indicators:17-3-1-title,"Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget","Ausländische Direktinvestitionen, öffentliche Entwicklungszusammenarbeit und Süd-Süd-Kooperationen als Anteil am gesamten Haushaltsbudget"
-global_indicators:17-3-2-title,Volume of remittances (in United States dollars) as a proportion of total GDP,Volumen der (Rück-)Überweisungen (in US-Dollar) als Anteil am gesamten BIP
-global_indicators:17-4-1-title,Debt service as a proportion of exports of goods and services,Schuldendienst als Anteil an Güter- und Dienstleistungsexporten
-global_indicators:17-5-1-title,Number of countries that adopt and implement investment promotion regimes for least developed countries,"Anzahl der Staaten, die Investitionsförderprogramme für die am wenigsten entwickelten Länder einführen und umsetzen"
-global_indicators:17-6-1-title,"Number of science and/or technology cooperation agreements and programmes between countries, by type of cooperation","Anzahl der Vereinbarungen und Programme über Wissenschafts- und/oder Technologie-Kooperationen zwischen Staaten, nach Art der Kooperation"
-global_indicators:17-6-2-title,"Fixed Internet broadband subscriptions per 100 inhabitants, by speed","Internet-Breitband-Verträge je 100 Einwohner, nach Geschwindigkeit"
-global_indicators:17-7-1-title,"Total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies","Gesamtbetrag der für Entwicklungsländer genehmigten Mittel zur Förderung der Entwicklung, des Transfers, der öffentlichen Bereitstellung und der Verbreitung umweltfreundlicher Technologien"
-global_indicators:17-8-1-title,Proportion of individuals using the Internet,"Anteil der Einzelpersonen, die das Internet nutzen"
-global_indicators:17-9-1-title,"Dollar value of financial and technical assistance (including through North-South, South‐South and triangular cooperation) committed to developing countries","Dollar-Wert der finanziellen und technischen Zusammenarbeit (einschließlich durch Nord-Süd-, Süd-Süd- und Dreieckskooperationen) mit Entwicklungsländern"
-global_indicators:2-1-1-title,Prevalence of undernourishment,Eigenheime 1
-global_indicators:2-1-2-title,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Eigenheime 2
-global_indicators:2-2-1-title,Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age,Eigenheime 3
+global_indicators:13-1-1-title,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
+global_indicators:13-1-2-title,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,
+global_indicators:13-1-3-title,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,
+global_indicators:13-2-1-title,"Number of countries that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change, and foster climate resilience and low greenhouse gas emissions development in a manner that does not threaten food production (including a national adaptation plan, nationally determined contribution, national communication, biennial update report or other)",
+global_indicators:13-3-1-title,"Number of countries that have integrated mitigation, adaptation, impact reduction and early warning into primary, secondary and tertiary curricula",
+global_indicators:13-3-2-title,"Number of countries that have communicated the strengthening of institutional, systemic and individual capacity-building to implement adaptation, mitigation and technology transfer, and development actions",
+global_indicators:13-a-1-title,Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment,
+global_indicators:13-b-1-title,"Number of least developed countries and small island developing States that are receiving specialized support, and amount of support, including finance, technology and capacity-building, for mechanisms for raising capacities for effective climate change-related planning and management, including focusing on women, youth and local and marginalized communities",
+global_indicators:14-1-1-title,Index of coastal eutrophication and floating plastic debris density,
+global_indicators:14-2-1-title,Proportion of national exclusive economic zones managed using ecosystem-based approaches,
+global_indicators:14-3-1-title,Average marine acidity (pH) measured at agreed suite of representative sampling stations,
+global_indicators:14-4-1-title,Proportion of fish stocks within biologically sustainable levels,
+global_indicators:14-5-1-title,Coverage of protected areas in relation to marine areas,
+global_indicators:14-6-1-title,"Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing",
+global_indicators:14-7-1-title,"Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries",
+global_indicators:14-a-1-title,Proportion of total research budget allocated to research in the field of marine technology,
+global_indicators:14-b-1-title,Progress by countries in the degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries,
+global_indicators:14-c-1-title,"Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources",
+global_indicators:15-1-1-title,Forest area as a proportion of total land area,
+global_indicators:15-1-2-title,"Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type",
+global_indicators:15-2-1-title,Progress towards sustainable forest management,
+global_indicators:15-3-1-title,Proportion of land that is degraded over total land area,
+global_indicators:15-4-1-title,Coverage by protected areas of important sites for mountain biodiversity,
+global_indicators:15-4-2-title,Mountain Green Cover Index,
+global_indicators:15-5-1-title,Red List Index,
+global_indicators:15-6-1-title,"Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits",
+global_indicators:15-7-1-title,Proportion of traded wildlife that was poached or illicitly trafficked,
+global_indicators:15-8-1-title,Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species,
+global_indicators:15-9-1-title,Progress towards national targets established in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020,
+global_indicators:15-a-1-title,Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems,
+global_indicators:15-b-1-title,Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems,
+global_indicators:15-c-1-title,Proportion of traded wildlife that was poached or illicitly trafficked,
+global_indicators:16-1-1-title,"Number of victims of intentional homicide per 100,000 population, by sex and age",
+global_indicators:16-1-2-title,"Conflict-related deaths per 100,000 population, by sex, age and cause",
+global_indicators:16-1-3-title,"Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months",
+global_indicators:16-1-4-title,Proportion of population that feel safe walking alone around the area they live,
+global_indicators:16-10-1-title,"Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months",
+global_indicators:16-10-2-title,"Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information",
+global_indicators:16-2-1-title,Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,
+global_indicators:16-2-2-title,"Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation",
+global_indicators:16-2-3-title,Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18,
+global_indicators:16-3-1-title,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms,
+global_indicators:16-3-2-title,Unsentenced detainees as a proportion of overall prison population,
+global_indicators:16-4-1-title,Total value of inward and outward illicit financial flows (in current United States dollars),
+global_indicators:16-4-2-title,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments",
+global_indicators:16-5-1-title,"Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months",
+global_indicators:16-5-2-title,"Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months",
+global_indicators:16-6-1-title,"Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)",
+global_indicators:16-6-2-title,Proportion of population satisfied with their last experience of public services,
+global_indicators:16-7-1-title,"Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions",
+global_indicators:16-7-2-title,"Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group",
+global_indicators:16-8-1-title,Proportion of members and voting rights of developing countries in international organizations,
+global_indicators:16-9-1-title,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",
+global_indicators:16-a-1-title,Existence of independent national human rights institutions in compliance with the Paris Principles,
+global_indicators:16-b-1-title,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,
+global_indicators:17-1-1-title,"Total government revenue as a proportion of GDP, by source",
+global_indicators:17-1-2-title,Proportion of domestic budget funded by domestic taxes,
+global_indicators:17-10-1-title,Worldwide weighted tariff-average,
+global_indicators:17-11-1-title,Developing countries’ and least developed countries’ share of global exports,
+global_indicators:17-12-1-title,"Average tariffs faced by developing countries, least developed countries and small island developing States",
+global_indicators:17-13-1-title,Macroeconomic Dashboard,
+global_indicators:17-14-1-title,Number of countries with mechanisms in place to enhance policy coherence of sustainable development,
+global_indicators:17-15-1-title,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation,
+global_indicators:17-16-1-title,Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals,
+global_indicators:17-17-1-title,Amount of United States dollars committed to public-private and civil society partnerships,
+global_indicators:17-18-1-title,"Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics",
+global_indicators:17-18-2-title,Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics,
+global_indicators:17-18-3-title,"Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding",
+global_indicators:17-19-1-title,Dollar value of all resources made available to strengthen statistical capacity in developing countries,
+global_indicators:17-19-2-title,Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration,
+global_indicators:17-2-1-title,"Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)",
+global_indicators:17-3-1-title,"Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget",
+global_indicators:17-3-2-title,Volume of remittances (in United States dollars) as a proportion of total GDP,
+global_indicators:17-4-1-title,Debt service as a proportion of exports of goods and services,
+global_indicators:17-5-1-title,Number of countries that adopt and implement investment promotion regimes for least developed countries,
+global_indicators:17-6-1-title,"Number of science and/or technology cooperation agreements and programmes between countries, by type of cooperation",
+global_indicators:17-6-2-title,"Fixed Internet broadband subscriptions per 100 inhabitants, by speed",
+global_indicators:17-7-1-title,"Total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies",
+global_indicators:17-8-1-title,Proportion of individuals using the Internet,
+global_indicators:17-9-1-title,"Dollar value of financial and technical assistance (including through North-South, South‐South and triangular cooperation) committed to developing countries",
+global_indicators:2-1-1-title,Prevalence of undernourishment,Eigenheime 1 Anzahl der Eigenheime
+global_indicators:2-1-2-title,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Eigenheime 2 Eigenheime und Fläche
+global_indicators:2-2-1-title,Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age,Eigenheime 3 Verhältnis Eigenheime / Mietwohnungen
 global_indicators:2-2-2-title,"Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)",
 global_indicators:2-3-1-title,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,
 global_indicators:2-3-2-title,"Average income of small-scale food producers, by sex and indigenous status",
@@ -276,9 +151,9 @@ global_indicators:2-a-1-title,The agriculture orientation index for government e
 global_indicators:2-a-2-title,Total official flows (official development assistance plus other official flows) to the agriculture sector,
 global_indicators:2-b-1-title,Agricultural export subsidies,
 global_indicators:2-c-1-title,Indicator of food price anomalies,
-global_indicators:3-1-1-title,Maternal mortality ratio,Wohnheime 1
-global_indicators:3-1-2-title,Proportion of births attended by skilled health personnel,Wohnheime 2
-global_indicators:3-2-1-title,Under‐five mortality rate,Wohnheime 3
+global_indicators:3-1-1-title,Maternal mortality ratio,Wohnheime 1 Anzahl der Wohnheime
+global_indicators:3-1-2-title,Proportion of births attended by skilled health personnel,Wohnheime 2 Sind Pflegeheime Wohnheime?
+global_indicators:3-2-1-title,Under‐five mortality rate,"Wohnheime 3 Asylbewerberunterkünfte, Obdachlosenunterkünfte"
 global_indicators:3-2-2-title,Neonatal mortality rate,
 global_indicators:3-3-1-title,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",
 global_indicators:3-3-2-title,"Tuberculosis incidence per 100,000 population",
@@ -303,9 +178,9 @@ global_indicators:3-b-2-title,Total net official development assistance to medic
 global_indicators:3-b-3-title,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,
 global_indicators:3-c-1-title,Health worker density and distribution,
 global_indicators:3-d-1-title,International Health Regulations (IHR) capacity and health emergency preparedness,
-global_indicators:4-1-1-title,"Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex",Mieten 1
-global_indicators:4-2-1-title,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex",Mieten 2
-global_indicators:4-2-2-title,"Participation rate in organized learning (one year before the official primary entry age), by sex",Mieten 3
+global_indicators:4-1-1-title,"Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex","Mieten 1 Nettokaltmieten, Nebenkosten, Mikrozensus"
+global_indicators:4-2-1-title,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex","Mieten 2 Mieten nach Bevölkerung (Alter, Familien, Migrationshintergrund) Miktorzensus"
+global_indicators:4-2-2-title,"Participation rate in organized learning (one year before the official primary entry age), by sex",Mieten 3 Mietbelastungsquote Mikrozensus
 global_indicators:4-3-1-title,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",
 global_indicators:4-4-1-title,"Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",
 global_indicators:4-5-1-title,"Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated",
@@ -314,9 +189,9 @@ global_indicators:4-7-1-title,"Extent to which (i) global citizenship education 
 global_indicators:4-a-1-title,Proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions),
 global_indicators:4-b-1-title,Volume of official development assistance flows for scholarships by sector and type of study,
 global_indicators:4-c-1-title,Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country,
-global_indicators:5-1-1-title,"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex",Bauvorhaben 1
-global_indicators:5-2-1-title,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age",Bauvorhaben 2
-global_indicators:5-2-2-title,"Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence",Bauvorhaben 3
+global_indicators:5-1-1-title,"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex","Bauvorhaben 1 LSN Online Tabelle Z8090101 Baumaßnahmen und neue Gebäude, Nutzfläche, Kosten, Wohnungen insgesamt und Anzahl Räume und Nichtwohngebäude Kreisebene"
+global_indicators:5-2-1-title,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age",Bauvorhaben 2 Sinnvolle Aufteilung finden des unter 1 genannten
+global_indicators:5-2-2-title,"Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence",Bauvorhaben 3 Sinnvolle Aufteilung finden des unter 1 genannten
 global_indicators:5-3-1-title,Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18,
 global_indicators:5-3-2-title,"Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting, by age",
 global_indicators:5-4-1-title,"Proportion of time spent on unpaid domestic and care work, by sex, age and location",
@@ -328,9 +203,9 @@ global_indicators:5-a-1-title,"(a) Proportion of total agricultural population w
 global_indicators:5-a-2-title,Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control,
 global_indicators:5-b-1-title,"Proportion of individuals who own a mobile telephone, by sex",
 global_indicators:5-c-1-title,Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment,
-global_indicators:6-1-1-title,Proportion of population using safely managed drinking water services,Bauvorhaben 1
-global_indicators:6-2-1-title,"Proportion of population using safely managed sanitation services, including a handwashing facility with soap and water",Bauvorhaben 2
-global_indicators:6-3-1-title,Proportion of wastewater safely treated,Bauvorhaben 3
+global_indicators:6-1-1-title,Proportion of population using safely managed drinking water services,"Baufertigstellungen 1 LSN Online K8100116 Wohngebäude (1-2 Wohnungen, 3 und  mehr Wohnungen), Wohngebäude, Wohngebäuden nach Anzahl der Zimmer,  Nichtwohngebäude, Nutzfläche, Veranschlagte Kochen (???)"
+global_indicators:6-2-1-title,"Proportion of population using safely managed sanitation services, including a handwashing facility with soap and water",Baufertigstellungen 2 Sinnvolle Aufteilung des unter 1 genannten
+global_indicators:6-3-1-title,Proportion of wastewater safely treated,Baufertigstellungen 3 Sinnvolle Aufteilung des unter 1 genannten
 global_indicators:6-3-2-title,Proportion of bodies of water with good ambient water quality,
 global_indicators:6-4-1-title,Change in water-use efficiency over time,
 global_indicators:6-4-2-title,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,
@@ -339,13 +214,13 @@ global_indicators:6-5-2-title,Proportion of transboundary basin area with an ope
 global_indicators:6-6-1-title,Change in the extent of water-related ecosystems over time,
 global_indicators:6-a-1-title,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,
 global_indicators:6-b-1-title,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,
-global_indicators:7-1-1-title,Proportion of population with access to electricity,Baukosten 1
-global_indicators:7-1-2-title,Proportion of population with primary reliance on clean fuels and technology,Baukosten 2
+global_indicators:7-1-1-title,Proportion of population with access to electricity,Baukosten 1 Baukosten aus Baugenehmigung und Baufetigstellung
+global_indicators:7-1-2-title,Proportion of population with primary reliance on clean fuels and technology,Baukosten 2 Baukkosten Wohnungen nach Anzahl der Zimmer
 global_indicators:7-2-1-title,Renewable energy share in the total final energy consumption,Baukosten 3
 global_indicators:7-3-1-title,Energy intensity measured in terms of primary energy and GDP,
 global_indicators:7-a-1-title,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems",
 global_indicators:7-b-1-title,Investments in energy efficiency as a proportion of GDP and the amount of foreign direct investment in financial transfer for infrastructure and technology to sustainable development services,
-global_indicators:8-1-1-title,Annual growth rate of real GDP per capita,Grundstücke 1
+global_indicators:8-1-1-title,Annual growth rate of real GDP per capita,"Grundstücke 1  LSN Online Tabelle K9280111 Fälle, Flächen, Preise, baureifes Baulans, Rohbauland, Sonstiges, Insgesamt, Kreisebene, Zeitreihe, Kaufsumme, durchscnittliche Kaufwerte/qm"
 global_indicators:8-10-1-title,"(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults",
 global_indicators:8-10-2-title,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,
 global_indicators:8-2-1-title,Annual growth rate of real GDP per employed person,Grundstücke 2
@@ -362,8 +237,8 @@ global_indicators:8-9-1-title,Tourism direct GDP as a proportion of total GDP an
 global_indicators:8-9-2-title,Proportion of jobs in sustainable tourism industries out of total tourism jobs,
 global_indicators:8-a-1-title,Aid for Trade commitments and disbursements,
 global_indicators:8-b-1-title,"Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy",
-global_indicators:9-1-1-title,Proportion of the rural population who live within 2 km of an all-season road,Steuern und Abgaben 1
-global_indicators:9-1-2-title,"Passenger and freight volumes, by mode of transport",Steuern und Abgaben 2
+global_indicators:9-1-1-title,Proportion of the rural population who live within 2 km of an all-season road,Steuern und Abgaben 1 Grunderwerbsteuer und Gewerbesteuersätze
+global_indicators:9-1-2-title,"Passenger and freight volumes, by mode of transport",Steuern und Abgaben 2 Grundsteuer und Hebesätze
 global_indicators:9-2-1-title,Manufacturing value added as a proportion of GDP and per capita,Steuern und Abgaben 3
 global_indicators:9-2-2-title,Manufacturing employment as a proportion of total employment,
 global_indicators:9-3-1-title,Proportion of small-scale industries in total industry value added,
@@ -390,6 +265,58 @@ general:facebook,Facebook,Facebook
 general:built_using_open_sdg,Built using Open SDG,Erstellt mit Open SDG
 general:page,Page,Website
 general:pages,Pages,Webseiten
+menu:menu,Menu,Menü
+menu:reporting_status,Reporting Status,Berichtsstatus
+menu:about,About,Über uns
+menu:publications,Publications,Veröffentlichungen
+menu:guidance,Guidance,Technische Hinweise
+menu:faq,FAQ,FAQ
+menu:contact_us,Contact us,Kontakt
+menu:cookies,Cookies,Cookies
+menu:updates,Updates,
+post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
+post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an
+indicator:select_all,Select all,Alle auswählen
+indicator:clear_all,Clear all,Auswahl aufheben
+indicator:clear_selections,Clear selections,Auswahl aufheben
+indicator:variable_hint,Available when '%field' is selected,Verfügbar
+indicator:no_data_hint,No options available because of filters above,Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten verfügbar.
+indicator:download_headline,Download Headline CSV,Speichern der Headline im CSV-Format
+indicator:download_headline_title,Download headline data as CSV,Speichern der Headline im CSV-Format
+indicator:download_source,Download Source CSV,Daten im CSV-Format speichern
+indicator:download_source_title,Download source data as CSV,Daten im CSV-Format speichern
+indicator:download_chart,Download Chart CSV,Grafik im CSV-Format speichern
+indicator:download_table,Download Table CSV,Tabelle im CSV-Format speichern
+indicator:download_csv,Download CSV,im CSV-Format speichern
+indicator:download_csv_title,Download as CSV,im CSV-Format speichern
+indicator:download_chart_image,Download Chart Image,Grafik herunterladen
+indicator:download_chart_image_title,Download chart as image,Grafik als Bild herunterladen
+indicator:download_geojson,Download GeoJSON,im GeoJSON-Format speichern
+indicator:download_geojson_title,Download as GeoJSON,im GeoJSON-Format speichern
+indicator:source,Source,Datenquelle
+indicator:sources,Sources,Datenquellen
+indicator:geographical_area,Geographical Area,Geographische Abdeckung
+indicator:unit_of_measurement,Unit of Measurement,Einheit
+indicator:footnote,Footnote,Fußnote
+indicator:units_type,Units type,Einheit
+indicator:series,Series,Reihe
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen. Es können nicht alle Zeitreihen dargestellt werden
+indicator:view_indicator_list,View this goal's indicator list,Zeigt die Indikatorenliste zum SDG-Ziel an.
+indicator:sub_categories,Sub-categories,Kategorien
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Wählen Sie eine oder mehrere Kategorien aus, um die Tabelle/Grafik anzupassen."
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
+indicator:chart,Chart,Grafik
+indicator:table,Table,Tabelle
+indicator:map,Map,Karte
+indicator:loading,Loading,Laden
+indicator:loading_map,Loading map,Karte wird geladen
+indicator:national_metadata,National Metadata,Indikator Beschreibung
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.",
+indicator:global_metadata,Global Metadata,Tabellen zum Download
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.",Hier finden Sie die dargestellten Daten und weitere Tabellen als Excel Datei.
+indicator:edit,Edit,Bearbeiten
+indicator:edit_data,Edit Data,Daten bearbeiten
+indicator:edit_metadata,Edit Metadata,Metadaten bearbeiten
 global_targets:1-1-title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day",Der Wohnungskompass Niedersachsen beginnt mit einer Bestandsaufnahme der verfügbaren Wohnungen in Wohn- und Nichtwohngebäuden inkl. Wohnheimen. Für jeden Landkreis und für jede kreisfreie Stadt kann tabellarsich und grafisch die Entwicklung der Anzahl der Wohnungen abgebildet werden. Darüberhinaus ist die Anzahl der Zimmer und die Wohnfläche in Indikator 1.2.1 sowie die Nutzfläche der Wohngebäude (Indikator 1.2.2) verfügbar.
 global_targets:1-2-title,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Wohnungen nach Anzahl der Zimmer und Wohnflächen in Niedersachsen
 global_targets:1-3-title,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable","Den nationalen Gegebenheiten entsprechende Sozialschutzsysteme und -maßnahmen für alle umsetzen, einschließlich eines Basisschutzes, und bis 2030 eine breite Versorgung der Armen und Schwachen erreichen"
@@ -559,6 +486,55 @@ global_targets:9-5-title,"Enhance scientific research, upgrade the technological
 global_targets:9-a-title,"Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States",
 global_targets:9-b-title,"Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities",
 global_targets:9-c-title,Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020,
+status:reporting_status,Reporting Status,Berichtsstatus
+status:overall_reporting_status,Overall Reporting Status,Übersicht zum Berichtsstatus
+status:reported_online,Reported online,Daten verfügbar
+status:statistics_in_progress,Statistics in progress,in Bearbeitung
+status:exploring_data_sources,Exploring data sources,Datenquellenanalyse
+status:not_applicable,Not applicable,Nicht zutreffend
+status:status_by_goal,Status by goal,Status nach Ziel
+status:status_by_field,Status by %field,Status von %field
+search:search,Search,Suche
+search:indicator_search,Indicator search,Indikatorensuche
+search:search_results_for,Search results for,Ergebnisse zu
+search:found_in,found in,gefunden unter
+search:keywords,Keywords,Schlagworte
+search:no_results,No results,Keine Ergebnisse
+search:did_you_mean,did you mean,meintest du
+global_goals:1-short,No poverty,Gebäude
+global_goals:1-title,End poverty in all its forms everywhere,Gebäude in Niedersachsen
+global_goals:10-short,Reduced inequalities,Mietwohnungen
+global_goals:10-title,Reduce inequality within and among countries,Mietwohnungen in Niedersachsen
+global_goals:11-short,Sustainable cities & communities,Nachhaltige Städte und Gemeinden
+global_goals:11-title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Städte und Siedlungen inklusiv, sicher, widerstandsfähig und nachhaltig gestalten"
+global_goals:12-short,Responsible consumption and production,Verantwortungsvolle Konsum- und Produktionsmuster
+global_goals:12-title,Ensure sustainable consumption and production patterns,Nachhaltige Konsum- und Produktionsmuster sicherstellen
+global_goals:13-short,Climate action,Maßnahmen zum Klimaschutz
+global_goals:13-title,Take urgent action to combat climate change and its impacts,Umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen ergreifen
+global_goals:14-short,Life below water,Leben unter Wasser
+global_goals:14-title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Ozeane, Meere und Meeresressourcen im Sinne nachhaltiger Entwicklung erhalten und nachhaltig nutzen"
+global_goals:15-short,Life on land,Leben an Land
+global_goals:15-title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Landökosysteme schützen, wiederherstellen und ihre nachhaltige Nutzung fördern, Wälder nachhaltig bewirtschaften, Wüstenbildung bekämpfen, Bodendegradation beenden und umkehren und "
+global_goals:16-short,Peace and justice - strong institutions,
+global_goals:16-title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+global_goals:17-short,Partnerships for the goals,
+global_goals:17-title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,
+global_goals:2-short,Zero hunger,Eigenheime
+global_goals:2-title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture",Eigenheime in Niedersachsen
+global_goals:3-short,Good health and well-being,Wohnheime und andere Unterkünfte
+global_goals:3-title,Ensure healthy lives and promote well-being for all at all ages,Wohnheime und andere Unterkünfte in Niedersachsen
+global_goals:4-short,Quality education,Mieten
+global_goals:4-title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Mieten in Niedersachsen
+global_goals:5-short,Gender equality,Bauvorhaben
+global_goals:5-title,Achieve gender equality and empower all women and girls,Bauen in Niedersachsen
+global_goals:6-short,Clean water and sanitation,Baufertigstellungen
+global_goals:6-title,Ensure availability and sustainable management of water and sanitation for all,Baufertigstellungen in Niedersachsen
+global_goals:7-short,Affordable and clean energy,Baukosten
+global_goals:7-title,"Ensure access to affordable, reliable, sustainable and modern energy for all",Was kosten das Eigenheim?
+global_goals:8-short,Decent jobs and economic growth,Grundstücke
+global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Grunstückspreise und Preisentwicklung in Niedersachsen
+global_goals:9-short,"Industry, innovation and infrastructure",Grunderwerbssteuer
+global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",Grunderwerbsteuer in Niedersachsen
 calendar:January,January,Januar
 calendar:February,February,Februar
 calendar:March,March,März
@@ -571,65 +547,89 @@ calendar:September,September,September
 calendar:October,October,Oktober
 calendar:November,November,November
 calendar:December,December,Dezember
-search:search,Search,Suche
-search:indicator_search,Indicator search,Indikatorensuche
-search:search_results_for,Search results for,Ergebnisse zu
-search:found_in,found in,gefunden unter
-search:keywords,Keywords,Schlagworte
-search:no_results,No results,Keine Ergebnisse
-search:did_you_mean,did you mean,meintest du
-indicator:select_all,Select all,Alle auswählen
-indicator:clear_all,Clear all,Auswahl aufheben
-indicator:clear_selections,Clear selections,Auswahl aufheben
-indicator:variable_hint,Available when '%field' is selected,Verfügbar
-indicator:no_data_hint,No options available because of filters above,Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten verfügbar.
-indicator:download_headline,Download Headline CSV,Speichern der Headline im CSV-Format
-indicator:download_headline_title,Download headline data as CSV,Speichern der Headline im CSV-Format
-indicator:download_source,Download Source CSV,Daten im CSV-Format speichern
-indicator:download_source_title,Download source data as CSV,Daten im CSV-Format speichern
-indicator:download_chart,Download Chart CSV,Grafik im CSV-Format speichern
-indicator:download_table,Download Table CSV,Tabelle im CSV-Format speichern
-indicator:download_csv,Download CSV,im CSV-Format speichern
-indicator:download_csv_title,Download as CSV,im CSV-Format speichern
-indicator:download_chart_image,Download Chart Image,Grafik herunterladen
-indicator:download_chart_image_title,Download chart as image,Grafik als Bild herunterladen
-indicator:download_geojson,Download GeoJSON,im GeoJSON-Format speichern
-indicator:download_geojson_title,Download as GeoJSON,im GeoJSON-Format speichern
-indicator:source,Source,Datenquelle
-indicator:sources,Sources,Datenquellen
-indicator:geographical_area,Geographical Area,Geographische Abdeckung
-indicator:unit_of_measurement,Unit of Measurement,Einheit
-indicator:footnote,Footnote,Fußnote
-indicator:units_type,Units type,Einheit
-indicator:series,Series,Reihe
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen. Es können nicht alle Zeitreihen dargestellt werden
-indicator:view_indicator_list,View this goal's indicator list,Zeigt die Indikatorenliste zum SDG-Ziel an.
-indicator:sub_categories,Sub-categories,Kategorien
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Wählen Sie eine oder mehrere Kategorien aus, um die Tabelle/Grafik anzupassen."
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
-indicator:chart,Chart,Grafik
-indicator:table,Table,Tabelle
-indicator:map,Map,Karte
-indicator:loading,Loading,Laden
-indicator:loading_map,Loading map,Karte wird geladen
-indicator:national_metadata,National Metadata,Indikator Beschreibung
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.",
-indicator:global_metadata,Global Metadata,Tabellen zum Download
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.",Hier finden Sie die dargestellten Daten und weitere Tabellen als Excel Datei.
-indicator:edit,Edit,Bearbeiten
-indicator:edit_data,Edit Data,Daten bearbeiten
-indicator:edit_metadata,Edit Metadata,Metadaten bearbeiten
-menu:menu,Menu,Menü
-menu:reporting_status,Reporting Status,Berichtsstatus
-menu:about,About,Über uns
-menu:publications,Publications,Veröffentlichungen
-menu:guidance,Guidance,Technische Hinweise
-menu:faq,FAQ,FAQ
-menu:contact_us,Contact us,Kontakt
-menu:cookies,Cookies,Cookies
-menu:updates,Updates,
-post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
-post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an
+metadata_fields:other_info,Other information,Analyse
+metadata_fields:computation_calculations,Calculations,Methodische Hinweise
+metadata_fields:computation_definitions,Definitions,Definitionen
+metadata_fields:computation_units,Unit of measurement,Einheit
+metadata_fields:goal_meta_link,Link to UN metadata,Link zu den globalen Metadaten
+metadata_fields:indicator,Indicator number,Indikatorennummerierung
+metadata_fields:indicator_definition,Global indicator description,Globale Indikatorenbeschreibung
+metadata_fields:indicator_name,Indicator name,Indikatorenbezeichnung
+metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Indikatorenreihenfolge (in der Zielübersicht)
+metadata_fields:national_data_update_url,Data last updated,Daten zuletzt aktualisiert am
+metadata_fields:national_geographical_coverage,Geographical coverage,Geographische Abdeckung
+metadata_fields:national_indicator_available,Indicator available,Verfügbare Datenreihenbezeichnung
+metadata_fields:national_indicator_description,Indicator description,Definition des Indikators
+metadata_fields:national_metadata_update_url,Metadata last updated,Metadaten zuletzt aktualisiert am
+metadata_fields:source_contact_1,Contact details,Kontaktinformationen
+metadata_fields:source_contact_2,Contact details,Kontaktinformationen
+metadata_fields:source_contact_3,Contact details,Kontaktinformationen
+metadata_fields:source_contact_4,Contact details,Kontaktinformationen
+metadata_fields:source_contact_5,Contact details,Kontaktinformationen
+metadata_fields:source_contact_6,Contact details,Kontaktinformationen
+metadata_fields:source_earliest_available_1,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_2,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_3,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_4,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_5,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_6,Earliest available data,Daten verfügbar seit
+metadata_fields:source_geographical_coverage_1,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_2,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_3,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_4,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_5,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_6,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_next_release_1,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_2,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_3,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_4,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_5,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_6,Next release,Nächste Veröffentlichung am
+metadata_fields:source_organisation_1,Organisation,Organisation
+metadata_fields:source_organisation_2,Organisation,Organisation
+metadata_fields:source_organisation_3,Organisation,Organisation
+metadata_fields:source_organisation_4,Organisation,Organisation
+metadata_fields:source_organisation_5,Organisation,Organisation
+metadata_fields:source_organisation_6,Organisation,Organisation
+metadata_fields:source_other_info_1,Other information,Weitere Informationen
+metadata_fields:source_other_info_2,Other information,Weitere Informationen
+metadata_fields:source_other_info_3,Other information,Weitere Informationen
+metadata_fields:source_other_info_4,Other information,Weitere Informationen
+metadata_fields:source_other_info_5,Other information,Weitere Informationen
+metadata_fields:source_other_info_6,Other information,Weitere Informationen
+metadata_fields:source_periodicity_1,Periodicity,Periodizität
+metadata_fields:source_periodicity_2,Periodicity,Periodizität
+metadata_fields:source_periodicity_3,Periodicity,Periodizität
+metadata_fields:source_periodicity_4,Periodicity,Periodizität
+metadata_fields:source_periodicity_5,Periodicity,Periodizität
+metadata_fields:source_periodicity_6,Periodicity,Periodizität
+metadata_fields:source_release_date_1,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_2,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_3,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_4,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_5,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_6,Release date,Veröffentlichungsdatum
+metadata_fields:source_statistical_classification_1,Statistical classification, Datentyp
+metadata_fields:source_statistical_classification_2,Statistical classification,Datentyp
+metadata_fields:source_statistical_classification_3,Statistical classification,Datentyp
+metadata_fields:source_statistical_classification_4,Statistical classification,Datentyp
+metadata_fields:source_statistical_classification_5,Statistical classification,Datentyp
+metadata_fields:source_statistical_classification_6,Statistical classification,Datentyp
+metadata_fields:source_url_1,Link to data source,Tabelle zum Download
+metadata_fields:source_url_2,Link to data source,Link zur Datenquelle
+metadata_fields:source_url_3,Link to data source,Link zur Datenquelle
+metadata_fields:source_url_4,Link to data source,Link zur Datenquelle
+metadata_fields:source_url_5,Link to data source,Link zur Datenquelle
+metadata_fields:source_url_6,Link to data source,Link zur Datenquelle
+metadata_fields:target,Target name,Unterziel
+metadata_fields:target_id,Target number,Unterzielnummerierung
+metadata_fields:un_custodian_agency,UN custodian agency,VN Custodian Agency
+metadata_fields:un_designated_tier,UN designated tier,VN Tier Klassifikation
+metadata_fields:quality_assurance,Quality assurance,Qualitätssicherung
+metadata_fields:international_comparability,Comparability with international data/standards,Vergleichbarkeit mit internationalen Daten / Standards
+metadata_fields:comments_limitations,Comments and limitations,Kommentare und Einschränkungen
+metadata_fields:rational_interpretation,Rational and interpretation,Vernunft und Interpretation
+metadata_fields:copyright,Copyright,Urheberrechte
 header:skip_link,Skip to main content, Zum Hauptinhalt springen
 header:alpha,Alpha,Alpha-Version
 header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Diese Seite befindet sich im Entwicklungsstadium. Wir freuen uns über Ihre Kommentare.
